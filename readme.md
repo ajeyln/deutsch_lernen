@@ -38,7 +38,7 @@ General | [words and vocabulary](|https://deutsch.lingolia.com/de/wortschatz)
 B1| [Sprechen general](https://gfarmak.wordpress.com/2014/07/10/redemittel-b1-neu-modul-sprechen/)
 B1| [teil 1 sprechen](https://www.wattpad.com/126795221-deutsch-lernen-b1-redemittel-um-etwas-zusammen-zu)
 B1| [teil 2 sprechen](https://www.wattpad.com/126795994-deutsch-lernen-b1-redemittel-um-ein-thema-zu)
-B1 | [schreiben](https://www.wattpad.com/126797062-deutsch-lernen-b1-redemittel-um-%C3%BCber-ein-thema-zu
+B1 | [schreiben](https://www.wattpad.com/126797062-deutsch-lernen-b1-redemittel-um-%C3%BCber-ein-thema-zu)
 B1| [general B1 tips]( http://longua.org/b1.tips.php)
 B1 | [(schreiben) ]( https://vk.com/topic-9110958_25005155)
 B1 | [(schreiben) ]( https://gfarmak.wordpress.com/2011/02/16/redemittel-b1/) 
