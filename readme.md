@@ -7,6 +7,8 @@ This repository contains all my learning materials for preparing for German Lang
 
 **allgemein** - the folder contains common topics, tipps for german language
 
+**uebungen** - the folder contains practicle materials which I am doing since 4 months.
+
 **B1** / **B2** - each folder is created for separate language levels
 
 in each folder, there are following additional folders with appropriate content
@@ -18,8 +20,8 @@ Folder Name | Description
 *sprechen* | speaking materials
 *schreiben* | writing specific materials
 
-1. This section contains:comercial materials which I do not have any ownership.
-2. I have prepared for exams from the following materials and found useful
+1. These sections(B1/hoeren, B1/lesen, B2/hoeren and B2/lesen) refer materials which I do not have any ownership.
+2. I have prepared for exams from the following materials and found them useful
 
 	a. B1 folder contains commerical materials *So Geht's Noch Besser B1 Testbuch* <br />
 	   - by Claudi lgnatiadou-Schein (Author), David Kapetanidis (Author), Karin Vavatzanidis (Author)<br />
@@ -27,10 +29,10 @@ Folder Name | Description
 	b. B1 folder contains commerical materials *Zertifikat B1 Neu 15 Ubungsprufungen*,by Aliki Balser (Author) 
 	   - by Jo Glotz-Kastanis (Author), Maria papadopoulou (Author)<br />
 	   
-	c. B1 folder contains commerical materials *Projekt B2 neu - Testbuch*
+	c. B2 folder contains commerical materials *Projekt B2 neu - Testbuch*
 	   - by Annette Vosswinkel Jo Glotz-Kastanis, Petra Kaltsas, Stella Tokmakidou (Author)
 	   
-	d. There are also commerically available materials from Internet for which I do not contain any ownership.
+	d. A file in B2/sprechen section was downloaded from Intenet which is public and downloaded from [link](https://www.slideshare.net/HosseinAminottojari/goethezertifikat-b1-prfung-sprechen-themen-beispiele)
 
 I store these materials in [link to deutsch_lernen_privte](https://github.com/ajeyln/deutsch_lernen_private)
 
