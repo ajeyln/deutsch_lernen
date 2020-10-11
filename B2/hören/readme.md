@@ -32,7 +32,7 @@ Folder Name | Description
 	   
 	d. There are also commerically available materials from Internet for which I do not contain any ownership.
 
-I store these materials in <link to deutsch_lernen_privte>(https://github.com/ajeyln/deutsch_lernen_private)
+I store these materials in [link to deutsch_lernen_privte](https://github.com/ajeyln/deutsch_lernen_private)
 
 ## Key Take-aways
 
