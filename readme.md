@@ -7,7 +7,7 @@ This repository contains all my learning materials for preparing for German Lang
 
 **allgemein** - the folder contains common topics, tipps for german language
 
-**uebungen** - the folder contains practicle materials which I am doing since 4 months.
+**uebungen** - the folder contains practiced materials.
 
 **B1** / **B2** - each folder is created for separate language levels
 
