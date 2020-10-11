@@ -13,12 +13,9 @@ in each folder, there are following additional folders with appropriate content
 
 Folder Name | Description
 ----------|--------------
-*lesen* |reading materials
-*hören* | listening materials
 *sprechen* | speaking materials
 *schreiben* | writing specific materials
 
-B1 folder contains commerical materials *B1- So geht's noch besser*, for which I do not contain any ownership.
 There are also commerically available materials from Language Pantehon, for which I do not contain any ownership.
 
 ## Key Take-aways
@@ -26,7 +23,6 @@ There are also commerically available materials from Language Pantehon, for whic
 * Vocabulary for B1/B2
 * Pronouns ( Kannada, English grammmar background)
 * Writing and Speaking Tipps and skeletons
-* Preparation material for reading and listening
 
 There are unsupported file types, which cannot be used, unless you download it.  
 
