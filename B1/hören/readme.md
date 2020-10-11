@@ -22,4 +22,4 @@ I store these materials in [link to deutsch_lernen_privte](https://github.com/aj
 ## Contact
 For any queries contact ajeyanayak@gmail.com :rocket:
 
-Thanks to my brother vazudew@gmail.com for additional materials ( vocabulary list, skeletons and tipps !)
+
