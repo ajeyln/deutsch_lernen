@@ -8,8 +8,13 @@ The script flashes a random word and expects users to memorize the meaning of th
 
 This helps in rote learning by repeatition
 
+<p align="center">
+ <img align="center" width="400" src="charvita-example.gif" title="demo"/>
+</p>
+
 
 ## steps to execute
+
 1. download this folder
 2. python version should be 3.6 or more
 3. python charvita.py <Name_Of_file>
@@ -29,5 +34,8 @@ GERMAN_WORD   (MEANING in ENGLISH/LOCAL LANGUAGE)
 
 [vazudew](https://github.com/vazudew) is the original author of the script and I maintain it now.
 
+Video file (\*.mp4) is converted to GIF online at [EZGIF](https://ezgif.com/)
+
 ## Note
 Some of the meanings here are in Kannada language. 
+
