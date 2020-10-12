@@ -24,6 +24,7 @@ def get_loaded_data(file_path):
             }
 
 def charvita(wordsDictionary):
+    count = 0
     while True:
         print("Learn German Vocabulary !")
         print("====================")
@@ -31,15 +32,18 @@ def charvita(wordsDictionary):
         question, answer= random.choice(list(wordsDictionary.items()))
         print(f'WORD :{question }\n', end='')
         signal = input("type Y to display the answer : ")
+        count +=1
 
         if signal.lower() == 'y':
             print(f'\r ANSWER: {answer} \n', end='', flush=True)
             weiter= input("type Y to continue ")
             if weiter.lower() != 'y':
                 print(" End of Game ! Have a good day!")
+                print("Today you have solved {} words".format(count))
                 break
         else:
             print(" End of Game ! Have a good day!")
+            print("Today you have solved {} words".format(count))
             break
         clear_screen()
 
