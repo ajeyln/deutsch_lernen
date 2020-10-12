@@ -33,6 +33,7 @@ def charvita(wordsDictionary):
         print(f'WORD :{question }\n', end='')
         signal = input("type Y to display the answer : ")
         count +=1
+        print("Memorized word count is {}".format(count))
 
         if signal.lower() == 'y':
             print(f'\r ANSWER: {answer} \n', end='', flush=True)
