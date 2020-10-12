@@ -8,8 +8,8 @@ The script flashes a random word and expects users to memorize the meaning of th
 
 This helps in rote learning by repeatition
 
-<p align="center">
- <img align="center" width="400" src="charvita-example.gif" title="demo"/>
+<p align="left">
+ <img  height="400" width="400" src="charvita-example.gif" title="demo"/>
 </p>
 
 
