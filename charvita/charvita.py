@@ -29,14 +29,14 @@ def charvita(wordsDictionary):
         print("Learn German Vocabulary !")
         print("====================")
         print("****TYPE Q to quit !*****")
+        print("Memorized word count is {}".format(count))
         question, answer= random.choice(list(wordsDictionary.items()))
         print(f'WORD :{question }\n', end='')
         signal = input("type Y to display the answer : ")
-        count +=1
-        print("Memorized word count is {}".format(count))
 
         if signal.lower() == 'y':
             print(f'\r ANSWER: {answer} \n', end='', flush=True)
+            count +=1
             weiter= input("type Y to continue ")
             if weiter.lower() != 'y':
                 print(" End of Game ! Have a good day!")
