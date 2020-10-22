@@ -1,5 +1,5 @@
 ﻿beachten  - gamanisu , to note, to observe
-betonen  - ottu kodu, highlight
+betonen  - ottu kodu, emphasize
 berücksichtigen  - consider
 beeinflussen  - influence
 bewerben  - job apply
@@ -18,8 +18,8 @@ beschreiben - to describe
 wiederspiegeln - to reflect
 streiten  - to fight
 argumentieren - to argue
-jdn. überzeugen - to convince
-jdn. trösten - to console, samadhanapadisu
+jdn_überzeugen - to convince
+jdn_trösten - to console, samadhanapadisu
 Konvertieren - to convert, religion, Konvertierung  - Noun
 umrechnen - also to convert but with maths, dollar to euro, miles to Kilometer etc.
 empfinden - to feel
@@ -94,7 +94,7 @@ verletzen  - injure, novuntu madu, gaya madu
 leiten  - to lead, netrutva vahisu
 ableiten - deflect, haLLa hidi
 bedrohen  - threaten, bedarisu, hedarisu
-widerlegen - refute, tiraskarisu, niraakarisu
+widerlegen - refuse, tiraskarisu, niraakarisu
 widerreden - to contradict, virodhabhasavgi helu
 widerrufen - revoke, vapasur kare, raddumadu
 widersprechen  - to object, prashnisu, 
