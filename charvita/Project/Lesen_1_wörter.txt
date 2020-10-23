@@ -1,39 +1,40 @@
 eingebußt - suffered
-unverzichtbar - unnecessary =>> This is wrong meaning !
+unverzichtbar - unnecessary =>> REMOVE This is wrong meaning !
 vertraünwürdig - trustworthy
 spannende - thrilling
-aushiebig - extensive,substantial 
+ausgiebig - extensive,substantial, ಗಣನೀಯ, ವ್ಯಾಪಕವಾಗಿ
 zeitfresser - time eater 
 weckerlingeln - alaram clock ring
 gesamten - overall
 Tagesablauf - daily routine
-grundsatzlich - basically
-hauptsachlich - mainly
+grundsätzlich - basically
+hauptsächlich - mainly
 Bahnfahten - train rides
-Nachrichtportale - News portals
+Nachrichtsportale - News portals
 Startseite - Home page
-betriff - term
+begriff - term
+Betreff - Subject, ವಿಷಯ
 so_gut_wie_gar - almost not at all 
-Telenovels - TV
+Telenovels - Tele novles => REMOVE, not needed
 Schon_lange - long time
 Haustür - front door
 eillig - hurry, urgent
 Niveau - level
 selten - rare
-Gang - vein, duct
-Umständlich - roundabout
+Gang - Passage, ಮಾರ್ಗ
+Umständlich - laborious, ಪ್ರಯಾಸಕರ
 anstrenged - tiring,exhausting
 Medientag - Media Day
 Aktuell - Current
 frühstückstich - Breakfast Table
 zeiten - time
 Reichwerte - Rich values
-zugegebner_maßen - admittedly 
-zeitigeschchen - current affairS
-oberflächlich - superficial
+zugegebner_maßen - admittedly => PLEASE REMOVE
+Zeitgeschehen - current affairs, ಪ್ರಚಲಿತ ವಿದ್ಯಮಾನ
+oberflächlich - superficial, ಬಾಹ್ಯ, ಹುರುಳಿಲ್ಲದ
 Firmeninhaber - company owner
 Selbverständlich - self evident
-Lauffeur - wild fire
+Lauffeuer - wild fire
 übringen - all the rest
 staatkassen - city treasuries
 Bürger - Civic, Citizen
@@ -43,10 +44,11 @@ Tippschein - lottery ticket
 Zuschauer - spectator
 Glückzahlen - lucky number
 ursprünglich - original
-genuesen - genuen people
+genuesen - genuen people => REMOVE THIS !
 los - fate,destiny
-Ratmitgleider - advising member
-zettel - slip, note, bill
+Ratmitgleider - advising member => REMOVE THIS, 
+Mitglieder - members
+zettel - slip, note, bill, ಚೀಟಿ
 zogen -pullen
 gewinnbringende - Profittable
 herum - almost
@@ -54,7 +56,7 @@ herum - almost
 Belibtheit - popularity
 Einnahmen - receipt, revenue
 irgendwann - somewhere
-Regenten - Represententive
+Regenten - Represententive => REMOVE THIS
 Volksport - national sport
 dennoch - yet,still
 verantwortung - Resposibility
@@ -66,15 +68,15 @@ schausteller - showman
 Volkfest - Public festival
 wanderleben - Unsettled life
 wohnwagen - van, Caravan
-Dreick - triangle
+Dreieck - triangle
 möglicherweise - possibly
 Abschlussprüfung - final exam
 externen - external
 Gewerbschein - trade certificate
-wiesen  - boundry zones
+wiesen  - boundry zones => REMOVE THIS
 ausnahmeweise - exceptionally
 ständig - constantly, always
-sesshaften - settled
+sesshaften - settled => REMOVE THIS
 exotisch - exotic
 festen - strong hold
 wohnsitz - residence
@@ -102,7 +104,7 @@ Lärmbelastigung - noise pollution
 Verwendet - uses
 Lärm - Noise
 Stressauslösen - stress triggers
-seelisches - mental
+seelisches - Spiritual, ಆಧ್ಯಾತ್ಮಿಕ
 Wohlbefinden - well being
 Verkehrslärm - traffic noise
 Lärmveraursacher - noise pollution
@@ -110,8 +112,8 @@ stundenlang- hours long
 Beschwerden - complaints
 berufstätig - professional, working
 störend - disturbing
-unerheblich - negligable
-Gehör - auditory
+unerheblich - irrelevant ಅಪ್ರಸ್ತುತ
+Gehör - auditory =>REMOVE THIS
 sogar - even, yet
 dauerhaft - durable, permanent 
 Herzinfarkt - Heart attack
@@ -120,21 +122,23 @@ kopfhörer - headphone
 empfindlichen - sensitive
 Hörnerven - hearing nerve
 eben - even
-Begleitgeräusche - Backingground noise
-Kopieres -replicated
+Begleitgeräusche - Backingground noise =>REMOVE
+geräusche - Noise
+Kopieres -replicated => REMOVE
 Rauscht - whisper, pisumatu
 Tiefe - deep
 donnert - thunder
-beeinträchtigt - affected
+beeinträchtigt - affected => REMOVE
 Lautstärke - volume, loudness
-lärmplagen - noise complaints
-Rasen - Race
-frischen Gras - fresh grass
+lärmplagen - noise complaints => REMOVE
+Rasen - Races,ಜನಾ೦ಗ (not fast speed race)
+Rassen - Race, speed race
+frischen Gras - fresh grass => REMOVE
 Belastend - stressful
 sensibler - more sensitive
 Hauptverkehrstraße - main road
 schallschutzfenster - sound proof windows
-übrig - spare
+übrig -  remaning, ಉಳಿದ
 Hausordnung - house rules
 Berghof - ward
 Inhaltverzeichnis - Contents
@@ -142,81 +146,3 @@ wertsachen - Valueables
 zugang - Access
 Nachtruhe - Night peace
 Abreise - Departure
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
