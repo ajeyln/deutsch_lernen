@@ -1,16 +1,16 @@
-günstigen - cheap
+günstigen - cheapest
 zusätzlich - additional
 überwiegend - mainly, predominatly
-erheblichen - substantial
+erheblichen - substantial =X REMOVE
 Aufpreis - Additional cost
 mehrmals - repeatedly, manytimes
 unterwegs - under the waz, in transit
 Geshäftreisen -  Bussiness tour
 luxuriös - luxurious
-herkömlichen - traditional
+herkömlichen - usual, conventionally, SAAMANYAVAGI
 umsonst - costless, free
 gegenüber - towards, opposite
-dran - well off
+dran - well off =X REMOVE
 konventionelle - conventional
 schnäppchen - bargain
 heim - home
@@ -21,41 +21,41 @@ pauschalreisen - package tour
 Verspätungen - delays
 Pärchen - couple, pairs
 tatsächlich - actually
-verlockenden - tempt
+verlockenden - tempting, ಪ್ರಲೋಭನಗೊಳಿಸುವ
 enorme_summe - massive sums
 niedrigen - lower
 Stellen - places
-Abständen - intervals
+Abständen - intervals, Gaps
 jedoch - however
 Daher - hence
-angeblichen - matched, adjusted
+angeblichen - alleged, ಹೇಳಲಾಗಿರುವ, 
 Lücken - gaps
 vorsichtig - careful
-Zwangslaufig - unavoidable
+Zwangslaufig - unavoidable, ಅನಿವಾರ್ಯ
 eher -rather
 Unglucksfälle - crash accident
 beliebegen - any, yavudadaru
 keinesfalls - by no mean
-Merkwürdiger - Stranger 
-Krankmeldungen - Sick reports
-vergeblich - useless, vein
+Merkwürdiger - Stranger, ODD, ವಿಚಿತ್ರ
+Krankmeldungen - Sick Notifications
+vergeblich - useless, vain, ವ್ಯರ್ಥ
 sitzreihe - seat row
 Vertreibung - explusion, uchhatane
 angeblich - supposedly
 Börsekrachlöste - stock market crashes
 verstärke - strengthen
 gefürchtet - feared
-Abteitet - dissipates, karagu
+Abteitet - dissipates, karagu =X REMOVE
 wiederrum  - again
-vorurteile - biased
-Fachterminus - Technical term
-Zeitverschiebung - time lag
+vorurteile - biased, ಪೂರ್ವಾಗ್ರಹಗಳು
+Fachterminus - Technical term, ತಾಂತ್ರಿಕ ಪದ
+Zeitverschiebung - time lag, ಸಮಯ ಬದಲಾವಣೆ
 bereits - already
 Monatdurchschnitt - Monthly average
 zwangläufig - compulsarly
-verfügung - ordinance
+verfügung - ordinance => TALK TO GANESHA ANNA
 Genres - types
-schlichte - simple, plane
+schlichte - simple, plane, ಸರಳ
 zuvor - previously
 Lastwagen - lorry, track
 ebenfalls - also, likewise
@@ -70,20 +70,3 @@ vorab - beforehand
 kostprobe - sample
 hingeben - whereas, however
 Storm - Electricity
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
