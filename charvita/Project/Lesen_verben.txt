@@ -1,12 +1,12 @@
-zutreffen - to be right
-einübßen - to suffer lose
+zutreffen - to be right (depends on context) => REMOVE
+einbüßen - to suffer lose, ಸೋಲು => YOU CAN REMOVE?
 verzichten - to quit
 verbringen - to spend time
 gewehren_sich - to defend
-einschlichen - slip in
+einschlichen - slip in =>REMOVE
 verlinken - to link
-zurückhalten - to restrain 
-beziehen - to refer
+zurückhalten - to restrain, ನಿಯಂತ್ರಣ maadikoLLu
+beziehen - to refer (depends on context) => REMOVE
 vorfinden - to find, discover
 einschalten - to activate
 umgehen - to byepass
@@ -15,24 +15,26 @@ anziehen - to change dress
 einwerfen - to insert
 eingehen - to enter
 reinschauen - to drop in 
-verpassen - to miss something
-abhalten - to discourage
+verpassen - to miss something ತಪ್ಪುವಿಕೆ
+abhalten - to discourage => REMOVE THIS
+ermütigen - encourage, ಪ್ರೋತ್ಸಾಹಿಸ
+entmutigen - discourage, ನಿರುತ್ಸಾಹಗೊಳಿsu
 mitverfolgen - to follow
 speichern - to save data
 markieren - to mark
-stimmen - to voice
-aufbereiten - to process, to grab
+stimmen - to voice, ಧ್ವನಿ ಎತ್ತು
+aufbereiten - to process, to grab => REMOVE THIS
 auffüllen -to fill in
 verkaufen - to sell
 erfinden - to invent
 zogen - to pull
-entstehen - to arise, to emerge
+entstehen - to arise, to emerge, ಹೊರಹೊಮ್ಮು, ಉದ್ಭವಿಸu
 verloren - to lose
-veranstallen - to host, to arrange
+veranstallen - to host, to arrange, event ಆಯೋಜಿಸu 
 freuen_sich - to be glad
-überzeugen - to convience
+überzeugen - to convience, ಮನವೊಲಿಸu, ಮನಗಾಣಿಸು
 abläufen - to expire
-ausbereiten - to spread
+ausbreiten - to spread, ಹರಡu
 verbunden - to connect
 existeren -to exist
 mithalten - to keep up, to match up
@@ -42,11 +44,11 @@ beantragen - to reqest, to apply for
 halten - to keep, to hold
 ausstellen - to exhibit, to show
 nerven - to get nervous
-gelten - to take effect
-erlernen - to master
+gelten - to take effect, ಜಾರಿಯಲ್ಲಿರಿvudu (rule, law)
+erlernen - to master => REMOVE
 überlegen - to consider
 vorbereiten_auf - to prepare
-feststehen -to be fixed
+feststehen -to be fixe
 wohlbefinden - well being
 erholen - to relax
 schädigen - to harm, to injure
@@ -59,21 +61,21 @@ messen - to measure
 befinden - to decide
 empfehlen - to recommond
 durchgehen - to pass, to go through
-verhalten - to cautious
+sich_verhalten - to behave
 beschränken_sich - to restrict
 kontakte_knüpfen - to make contact
 bevorzugen - to prefer
 erweitern - to extend
-Strecken - to strech, to spread out
+Strecken - to stretch, to spread out
 eignen_sich -to suit
 einbauen - to install
 kritisieren - to critisize
 entsprechen - to correspond
 erkunden - to explore
 erledigen - to settle
-trüben - to reduce
+trüben - to reduce => PLEASE REMOVE
 verreisen - to make trip
-betreffen - to mention
+betreffen - to affect, ಪರಿಣಾಮವಾಗು
 sichern - to ensure
 wachsen - to grow
 werfen - to through
@@ -82,19 +84,19 @@ erwähnen - to mention
 liegen - to be located
 drauflegen - to put on it
 verraten - to betray
-bewiesen - to prove
+beweisen - to prove
 bestätigen - to confirm, to approve
 aberglauben - superstitious, andhavishwasa
 auffallen - attract attention, to stand out
 sprengen - to burst, to blast
 erklingen - to sound
-auftreten - to occur
-verwandein - to transform
-empfangen - to convience 
-ergänzen - to complete
-bezwecken - to purpose, to intend
-vermitteln - to mediate
-ermölichen - to enable
+auftreten - to occur, ಕಾಣಿಸಿಕೊLLu
+verwandein - to transform =>REMOVE
+empfangen - to receive 
+ergänzen - to fill up (bitta sthala tumbi)
+bezwecken - to purpose, to intend =>REMOVE
+vermitteln - to mediate =>REMOVE
+ermöglichen - to enable, ಸಕ್ರಿಯಗೊಳಿಸu, ಅಧಿಕಾರ ಕೊಡು
 ausbilden - to train
 vorspielen - to audition
 bewerben_sich - to applz for job
@@ -106,21 +108,3 @@ stecken - to stick
 erhalten - to receive
 geschloßen - to close, to shut
 statten - to permitted, to allower
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
