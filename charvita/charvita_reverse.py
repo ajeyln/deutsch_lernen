@@ -20,7 +20,7 @@ def get_loaded_data(file_path):
     with open(file_path, 'r', encoding=encoding_type) as fileHandle:  
         data = fileHandle.readlines() 
     return {
-                item.split()[0] : ' '.join(item.split()[1:]) or "No response given" for item in data
+                item.split()[0].strip() : ' '.join(item.split()[1:]).strip() or "No response given" for item in data
             }
 
 def charvita(wordsDictionary):
