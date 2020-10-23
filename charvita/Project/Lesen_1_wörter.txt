@@ -1,5 +1,4 @@
 eingebußt - suffered
-unverzichtbar - unnecessary =>> REMOVE This is wrong meaning !
 vertraünwürdig - trustworthy
 spannende - thrilling
 ausgiebig - extensive,substantial, ಗಣನೀಯ, ವ್ಯಾಪಕವಾಗಿ
@@ -15,7 +14,6 @@ Startseite - Home page
 begriff - term
 Betreff - Subject, ವಿಷಯ
 so_gut_wie_gar - almost not at all 
-Telenovels - Tele novles => REMOVE, not needed
 Schon_lange - long time
 Haustür - front door
 eillig - hurry, urgent
@@ -29,7 +27,6 @@ Aktuell - Current
 frühstückstich - Breakfast Table
 zeiten - time
 Reichwerte - Rich values
-zugegebner_maßen - admittedly => PLEASE REMOVE
 Zeitgeschehen - current affairs, ಪ್ರಚಲಿತ ವಿದ್ಯಮಾನ
 oberflächlich - superficial, ಬಾಹ್ಯ, ಹುರುಳಿಲ್ಲದ
 Firmeninhaber - company owner
@@ -44,9 +41,7 @@ Tippschein - lottery ticket
 Zuschauer - spectator
 Glückzahlen - lucky number
 ursprünglich - original
-genuesen - genuen people => REMOVE THIS !
 los - fate,destiny
-Ratmitgleider - advising member => REMOVE THIS, 
 Mitglieder - members
 zettel - slip, note, bill, ಚೀಟಿ
 zogen -pullen
@@ -56,7 +51,6 @@ herum - almost
 Belibtheit - popularity
 Einnahmen - receipt, revenue
 irgendwann - somewhere
-Regenten - Represententive => REMOVE THIS
 Volksport - national sport
 dennoch - yet,still
 verantwortung - Resposibility
@@ -73,10 +67,8 @@ möglicherweise - possibly
 Abschlussprüfung - final exam
 externen - external
 Gewerbschein - trade certificate
-wiesen  - boundry zones => REMOVE THIS
 ausnahmeweise - exceptionally
 ständig - constantly, always
-sesshaften - settled => REMOVE THIS
 exotisch - exotic
 festen - strong hold
 wohnsitz - residence
@@ -113,7 +105,6 @@ Beschwerden - complaints
 berufstätig - professional, working
 störend - disturbing
 unerheblich - irrelevant ಅಪ್ರಸ್ತುತ
-Gehör - auditory =>REMOVE THIS
 sogar - even, yet
 dauerhaft - durable, permanent 
 Herzinfarkt - Heart attack
@@ -122,18 +113,13 @@ kopfhörer - headphone
 empfindlichen - sensitive
 Hörnerven - hearing nerve
 eben - even
-Begleitgeräusche - Backingground noise =>REMOVE
 geräusche - Noise
-Kopieres -replicated => REMOVE
 Rauscht - whisper, pisumatu
 Tiefe - deep
 donnert - thunder
-beeinträchtigt - affected => REMOVE
 Lautstärke - volume, loudness
-lärmplagen - noise complaints => REMOVE
 Rasen - Races,ಜನಾ೦ಗ (not fast speed race)
 Rassen - Race, speed race
-frischen Gras - fresh grass => REMOVE
 Belastend - stressful
 sensibler - more sensitive
 Hauptverkehrstraße - main road

@@ -1,12 +1,8 @@
-zutreffen - to be right (depends on context) => REMOVE
-einbüßen - to suffer lose, ಸೋಲು => YOU CAN REMOVE?
 verzichten - to quit
 verbringen - to spend time
 gewehren_sich - to defend
-einschlichen - slip in =>REMOVE
 verlinken - to link
 zurückhalten - to restrain, ನಿಯಂತ್ರಣ maadikoLLu
-beziehen - to refer (depends on context) => REMOVE
 vorfinden - to find, discover
 einschalten - to activate
 umgehen - to byepass
@@ -16,14 +12,12 @@ einwerfen - to insert
 eingehen - to enter
 reinschauen - to drop in 
 verpassen - to miss something ತಪ್ಪುವಿಕೆ
-abhalten - to discourage => REMOVE THIS
 ermütigen - encourage, ಪ್ರೋತ್ಸಾಹಿಸ
 entmutigen - discourage, ನಿರುತ್ಸಾಹಗೊಳಿsu
 mitverfolgen - to follow
 speichern - to save data
 markieren - to mark
 stimmen - to voice, ಧ್ವನಿ ಎತ್ತು
-aufbereiten - to process, to grab => REMOVE THIS
 auffüllen -to fill in
 verkaufen - to sell
 erfinden - to invent
@@ -45,7 +39,6 @@ halten - to keep, to hold
 ausstellen - to exhibit, to show
 nerven - to get nervous
 gelten - to take effect, ಜಾರಿಯಲ್ಲಿರಿvudu (rule, law)
-erlernen - to master => REMOVE
 überlegen - to consider
 vorbereiten_auf - to prepare
 feststehen -to be fixe
@@ -73,7 +66,6 @@ kritisieren - to critisize
 entsprechen - to correspond
 erkunden - to explore
 erledigen - to settle
-trüben - to reduce => PLEASE REMOVE
 verreisen - to make trip
 betreffen - to affect, ಪರಿಣಾಮವಾಗು
 sichern - to ensure
@@ -91,11 +83,8 @@ auffallen - attract attention, to stand out
 sprengen - to burst, to blast
 erklingen - to sound
 auftreten - to occur, ಕಾಣಿಸಿಕೊLLu
-verwandein - to transform =>REMOVE
 empfangen - to receive 
 ergänzen - to fill up (bitta sthala tumbi)
-bezwecken - to purpose, to intend =>REMOVE
-vermitteln - to mediate =>REMOVE
 ermöglichen - to enable, ಸಕ್ರಿಯಗೊಳಿಸu, ಅಧಿಕಾರ ಕೊಡು
 ausbilden - to train
 vorspielen - to audition

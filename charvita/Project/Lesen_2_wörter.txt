@@ -1,7 +1,6 @@
 günstigen - cheapest
 zusätzlich - additional
 überwiegend - mainly, predominatly
-erheblichen - substantial =X REMOVE
 Aufpreis - Additional cost
 mehrmals - repeatedly, manytimes
 unterwegs - under the waz, in transit
@@ -10,7 +9,6 @@ luxuriös - luxurious
 herkömlichen - usual, conventionally, SAAMANYAVAGI
 umsonst - costless, free
 gegenüber - towards, opposite
-dran - well off =X REMOVE
 konventionelle - conventional
 schnäppchen - bargain
 heim - home
@@ -45,7 +43,6 @@ angeblich - supposedly
 Börsekrachlöste - stock market crashes
 verstärke - strengthen
 gefürchtet - feared
-Abteitet - dissipates, karagu =X REMOVE
 wiederrum  - again
 vorurteile - biased, ಪೂರ್ವಾಗ್ರಹಗಳು
 Fachterminus - Technical term, ತಾಂತ್ರಿಕ ಪದ
@@ -53,7 +50,7 @@ Zeitverschiebung - time lag, ಸಮಯ ಬದಲಾವಣೆ
 bereits - already
 Monatdurchschnitt - Monthly average
 zwangläufig - compulsarly
-verfügung - ordinance => TALK TO GANESHA ANNA
+verfügung - disposition, ಇತ್ಯರ್ಥ
 Genres - types
 schlichte - simple, plane, ಸರಳ
 zuvor - previously
