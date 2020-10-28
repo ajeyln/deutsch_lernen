@@ -33,10 +33,10 @@ Sl. no.| Topic |  Hours
 Sl. no.| Topic |  Hours
 ----------|----| ---------
 01 |  Charvita | 1.5
-02 |  Hören - Normal Pattern|  2.0
+02 |  Hören - Normal/Vichitra Pattern|  2.0
 03 |  NVV | 1.0
 04 | Grammar -**Please write down on paper- document** | 1.5
-05 | Lesen - Normal Pattern|  2.0
+05 | Lesen - Normal/Vichitra Pattern |  2.0
 06| Sprechen | 1.0
 07| Contextual Hören - **Content must be in Hochdesutsch** |  0.5 (Youtube, Trusted institution Publishers)
 08 |Contextual Lesen - **Content must be in Hochdesutsch** | 0.5 (Magazines, News Papers some Blogs)
