@@ -1,5 +1,16 @@
 # STUDY PLAN
 
+## 0. QUICK UPDATE
+* daily Cloud until Nov. 2 (inclusive)
+* weekends Hackerrank until Nov. 8 (inlcusive)
+* daily Lesen and Hören - Vichitra Pattern until Nov. 10 (inclusive)
+* daily 10 audio clips to be sent until Nov 21/22 (5 sentence A2-B1, 5 sentence B1-B2)
+* daily Charvita and NVV until Nov 21/22
+* daily grammar learning till Nov.16 , please write the content into book. Take Photo and update Github under uebungen/grammatik. 
+* After Nov 19. please revise grammar from these papers. This will help during revision
+* Exams on Nov. 10, Nov. 14 and Nov. 19 :bangbang:
+* Contextual Lesen and Hören ( content must be in Hochdeutsch)
+
 <br>
 
 ## 1. Upto Nov 2 - *DEEP PREPARE* (including Nov 2)
