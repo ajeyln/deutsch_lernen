@@ -156,8 +156,8 @@ Example
 
 
 ## 4. Active and Passiv voices
-* past    :  <OBJEKT> <WURDEN> + .. + <PARTIZIP2-VERB>
-* Present/Future : <OBJEKT> <WERDEN> + .. + <PARTIZIP2-VERB> (WIRD IF OBJECT IS SINGULAR)
+* past    :  (OBJEKT)  (WURDEN) + .. + (PARTIZIP2-VERB)
+* Present/Future : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
 
 
 ## 5. Nebensatz 
