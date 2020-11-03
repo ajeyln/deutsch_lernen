@@ -106,7 +106,7 @@
  
 
 
-3. Adjektivdeklinationen
+## 3. Adjektivdeklinationen
 
 	*Bestimmt Artikel
 	
@@ -155,28 +155,75 @@ Example
 
 
 
-4. Active and Passiv voices
+## 4. Active and Passiv voices
+* past    :  <OBJEKT> <WURDEN> + .. + <PARTIZIP2-VERB>
+* Present/Future : <OBJEKT> <WERDEN> + .. + <PARTIZIP2-VERB> (WIRD IF OBJECT IS SINGULAR)
+
+
+## 5. Nebensatz 
+* *dass, weil, während, als*
+* *relative pronomen*
+* *ob, obwohl* 
+* *seit*
+* *wenn, falls*
+* *sodass*
+* *trotzdem*
+* *damit*
+* *je.. desto* - je mehr du regelmägig spielst, desto besser wird dein Körper
+
+
+
+## 6. Indirekte rede
+**Do not worry much about this part, know only following basics**
+* *normal* 
+	wörtlich rede ( spoken language) : Tobias sagte gestern: „Ich habe eine Erkältung"
+	Indirekte Rede                   : Tobias sagte, dass er eine Erkältung hat.
+	
+* *requests*
+	könnten Sie mir sagen, wann die Prüfung anfängt ?
+	Könntest du mir bitte Bescheid geben, wo mein Manager heute arbeitet ?
+
+
+## 7. Genetiv case 
 
 
 
 
-5. Nebensatz 
+## 8. Fixed Prepositions and Verbs
+
+## 9. Zweiteilige Konnektoren
 
 
+## 10.Relative pronomen
 
+## 11. TeKaMoLo
+**ONLY use for WRITING**
 
-6. Indirekte rede
-	 
-* konjuktiv 1 and 2 
+If you have lot of information to be given in one sentence, you will be wondering which information must be written/said first?
 
-7. Genetiv case 
+There is an Order. The German audience likes to have this order in usual case. 
+Usual ordering of information is as follows in normal cases
 
+*Te* - temporal time related
+*Ka* - kausal Cause reason KaaraNa?
+*Mo* - modal, which way/fashion yaava reeti , Hege?
+*Lo* - location
 
+Usually modal is confusing one.. so you may not use it.. rest every concept must be ok
 
+Sometimes temporal/modal can be same, for example the word regularly (regelmäßig). You can keep it in anywhere No Problem !
 
-8. Fixed Prepositions and Verbs
+**Example**
+Raju plays Cricket - everyday/regularly - for fitness/health - with friends - in Karkala
 
-9. Zweiteilige Konnektoren
+**Exceptions**
+Sometimes, based upon question or information required, we may have to change the order of information.
+For example : If location is required, then Location comes first, rest of the information will have TeKoMo
+Example 1:
+Question: what happened in Bangalore ? ( importance is in Location, which usual case is last component of TeKa)
+Answer: in Bangalore RCB lost to chennai on Sunday *because of Bad weather* (Kausal, KaaraNa, Reason) **within 10 Overs** (how, mode, hege)
 
-
-10.Relative pronomen
+Another situation, information is based upon why something happened ( so Kausal reason must be given first, and rest in TeMoLo)
+Example 2:
+Question: why King David was killed ? ( focus is on Cause, Kausal, reason)
+Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
