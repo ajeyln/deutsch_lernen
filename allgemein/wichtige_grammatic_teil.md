@@ -205,8 +205,11 @@ There is an Order. The German audience likes to have this order in usual case.
 Usual ordering of information is as follows in normal cases
 
 *Te* - temporal time related
+
 *Ka* - kausal Cause reason KaaraNa?
+
 *Mo* - modal, which way/fashion yaava reeti , Hege?
+
 *Lo* - location
 
 Usually modal is confusing one.. so you may not use it.. rest every concept must be ok
@@ -218,12 +221,20 @@ Raju plays Cricket - everyday/regularly - for fitness/health - with friends - in
 
 **Exceptions**
 Sometimes, based upon question or information required, we may have to change the order of information.
+
 For example : If location is required, then Location comes first, rest of the information will have TeKoMo
+
 Example 1:
+
 Question: what happened in Bangalore ? ( importance is in Location, which usual case is last component of TeKa)
+
 Answer: in Bangalore RCB lost to chennai on Sunday *because of Bad weather* (Kausal, KaaraNa, Reason) **within 10 Overs** (how, mode, hege)
 
 Another situation, information is based upon why something happened ( so Kausal reason must be given first, and rest in TeMoLo)
+
 Example 2:
+
 Question: why King David was killed ? ( focus is on Cause, Kausal, reason)
-Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
+
+Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris 
+( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
