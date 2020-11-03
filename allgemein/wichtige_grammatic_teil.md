@@ -1,63 +1,63 @@
 <h1 align="center"> Wichtige Grammatik_Teil</h1>
 
-## Verbs types
+## 1. Verbs types
 
-	* **REFLEXIVES VERBS** <br />
+#### REFLEXIVES VERBS
 
-		|Nominative|Accusative|Dative|
-		|-----------|----------|------|
-		|ich | mich | mir |
-		|du | dich | dir |	 	 
-		|er/es/sie | sich |	 sich |
-		|wir | uns| uns | 
-		|ihr | euch | euch | 
-		|sie/Sie | sich/Sich | sich/Sich|
+|Nominative|Accusative|Dative|
+|-----------|----------|------|
+|ich | mich | mir |
+|du | dich | dir |	 	 
+|er/es/sie | sich |	 sich |
+|wir | uns| uns | 
+|ihr | euch | euch | 
+|sie/Sie | sich/Sich | sich/Sich|
 		 	 	 	 	 
 		
-1. sich ärgern - to get angry, (Manuel und Paula ärgern sich über das Wetter)
-2. sich bewegen - to move, ( Am Wochenende möchten wir uns  ein bisschen im Garten bewegen)
+1. sich Ã¤rgern - to get angry, (Manuel und Paula Ã¤rgern sich Ã¼ber das Wetter)
+2. sich bewegen - to move, ( Am Wochenende mÃ¶chten wir uns  ein bisschen im Garten bewegen)
 3. sich freuen  - to be happy ( ich freue mich auf Geburstagfeier am Samstag ! )
-4. sich setzen   - to sit down ( ich bin müde, weil ich Fitness Studio besucht habe. Ich möchte mich jetzt setzen)
-5. sich treffen  - to meet, ( könntest du bitte Bescheid geben, ob wir uns am Sonntag treffen können ?)
-6. sich verabschieden - to say goodbye ( Nach der Party können wir uns verabschieden)
+4. sich setzen   - to sit down ( ich bin mÃ¼de, weil ich Fitness Studio besucht habe. Ich mÃ¶chte mich jetzt setzen)
+5. sich treffen  - to meet, ( kÃ¶nntest du bitte Bescheid geben, ob wir uns am Sonntag treffen kÃ¶nnen ?)
+6. sich verabschieden - to say goodbye ( Nach der Party kÃ¶nnen wir uns verabschieden)
 7. sich baden - to take a bath	Ich bade mich gern jeden Sonntag.
 8. sich duschen- to shower	Es ist gesund, sich manchmal kalt zu duschen.
-9. sich rasieren	- to shave ich muss mich diese Woche für das Interview rasieren ( i must shave this week for the interview)
-10. sich  beeilen  (pronunciation BE-AyLEN )- to hurry - Wir müssen uns für den Sitzplatz im Bus beeilen  ( we must hurry to get bus seat)
-11. sich  verspäten- to be late - Es gab Unfall. Deshalb haben wir uns verspätet. (Unfall - accident, partizip 2 verspätet)
+9. sich rasieren	- to shave ich muss mich diese Woche fÃ¼r das Interview rasieren ( i must shave this week for the interview)
+10. sich  beeilen  (pronunciation BE-AyLEN )- to hurry - Wir mÃ¼ssen uns fÃ¼r den Sitzplatz im Bus beeilen  ( we must hurry to get bus seat)
+11. sich  verspÃ¤ten- to be late - Es gab Unfall. Deshalb haben wir uns verspÃ¤tet. (Unfall - accident, partizip 2 verspÃ¤tet)
 12. sich  benehmen, - to behave - Ich muss mich in der Schule gut benehmen.
-13. sich  entschuldigen - to apologize ich muss mich für die Verspätung entschuldigen ( i must apologize for the delay)
-14. sich vorstellen - to introduce oneself - Können Sie sich bitte vorstellen ? ( can you introduce yourself ?)
+13. sich  entschuldigen - to apologize ich muss mich fÃ¼r die VerspÃ¤tung entschuldigen ( i must apologize for the delay)
+14. sich vorstellen - to introduce oneself - KÃ¶nnen Sie sich bitte vorstellen ? ( can you introduce yourself ?)
 15. sich  erinnern an - to remember	- ich errrinere mich an meine Kindheit ( i remember about my childhood)
-16. sich  erinnern an - to remind ( another meaning) - ich errinere mich meinen Bruder an seine Prüfung am Samstag ( i reminded my brother about his exam on saturday)
+16. sich  erinnern an - to remind ( another meaning) - ich errinere mich meinen Bruder an seine PrÃ¼fung am Samstag ( i reminded my brother about his exam on saturday)
 17. sich freuen auf - to look forward to - ich freue mich auf deinen Besuch ( looking forward for your visit)
-18. sich freuen über - to be happy about - Ich freue mich über deine Hochzeit ( i am happy about your wedding)
-19. sich  interessieren für	- to be interested in - Er interessiert sich für Cricket Spiel am Samstag
-20. sich  kümmern um - to look after, to take care of - Mein Brüder kümmert sich um alte Eltern ( my brother takes care of old parents)
+18. sich freuen Ã¼ber - to be happy about - Ich freue mich Ã¼ber deine Hochzeit ( i am happy about your wedding)
+19. sich  interessieren fÃ¼r	- to be interested in - Er interessiert sich fÃ¼r Cricket Spiel am Samstag
+20. sich  kÃ¼mmern um - to look after, to take care of - Mein BrÃ¼der kÃ¼mmert sich um alte Eltern ( my brother takes care of old parents)
 
 
-TRENNBARES VERB	
+#### TRENNBARES VERB	
 
 1. abgeben - submit
 2. abnehmen - lose weight
-3. abschließen - complete, finish ( project, study, degree)
+3. abschlieÃŸen - complete, finish ( project, study, degree)
 4. angeben - to show off ( i have a BMW Car :P )
 5. anschauen - watch
 6. anrufen - call
 7. aufnehmen - record video or take a picture
-8. aufräumen - tidy up/ clean up ( example room)
+8. aufrÃ¤umen - tidy up/ clean up ( example room)
 9. aufwachsen - grow up.. (ich bin in karkala aufgewachsen)
 10. ausdrucken - print ( picture or paper)
-11. ausdrücken - express opinion, feelings (vyaktapadisu)
-12. ausgehen - go out... ich möchte mit meinen Freunden ausgehen
+11. ausdrÃ¼cken - express opinion, feelings (vyaktapadisu)
+12. ausgehen - go out... ich mÃ¶chte mit meinen Freunden ausgehen
 13. losfahren - leave, get going ( wir fahren jetzt nach Bangalore los)
 14. mitbekommen - realize, ich habe mitbekommen, dass Suresh in Unterricht nicht gekommen ist.
 15. mitfahren - drive together, Meine Frau und ich fahren nach Mumbai jedes Jahr mit
 16. mitmachen - participate, join - Wir wollen cricket spielen. Willst du mitmachen ?
 17. mitteilen - inform - Er hat mitgeteilt, dass er nach Indien am Samstag fliegt.
 18. mitnehmen - take along,  ich nehme Foto von meinem Papa immer mit.
-19. nachdenken - think about, ich möchte darüber nachdenken ( i want to think about that)
-20. nachprüfen - double check (essay, documents) , ich muss immer meine Antworten nachprüfen.
+19. nachdenken - think about, ich mÃ¶chte darÃ¼ber nachdenken ( i want to think about that)
+20. nachprÃ¼fen - double check (essay, documents) , ich muss immer meine Antworten nachprÃ¼fen.
 21. stattfinden - an event taking place... Die Party findet am Samstag um 16 Uhr statt.
 				       Die Party hat am Samstag in letztem Jahr stattgefunden.
 22. vorbereiten - prepare
@@ -68,24 +68,24 @@ TRENNBARES VERB
 	kannst du dich in Indien jetzt vorstellen ? can you imagine yourself in India now ?
 1. abgeben - submit
 2. abnehmen - lose weight
-3. abschließen - complete, finish ( project, study, degree)
+3. abschlieÃŸen - complete, finish ( project, study, degree)
 4. angeben - to show off ( i have a BMW Car :P )
 5. anschauen - watch
 6. anrufen - call
 7. aufnehmen - record video or take a picture
-8. aufräumen - tidy up/ clean up ( example room)
+8. aufrÃ¤umen - tidy up/ clean up ( example room)
 9. aufwachsen - grow up.. (ich bin in karkala aufgewachsen)
 10. ausdrucken - print ( picture or paper)
-11. ausdrücken - express opinion, feelings (vyaktapadisu)
-12. ausgehen - go out... ich möchte mit meinen Freunden ausgehen
+11. ausdrÃ¼cken - express opinion, feelings (vyaktapadisu)
+12. ausgehen - go out... ich mÃ¶chte mit meinen Freunden ausgehen
 13. losfahren - leave, get going ( wir fahren jetzt nach Bangalore los)
 14. mitbekommen - realize, ich habe mitbekommen, dass Suresh in Unterricht nicht gekommen ist.
 15. mitfahren - drive together, Meine Frau und ich fahren nach Mumbai jedes Jahr mit
 16. mitmachen - participate, join - Wir wollen cricket spielen. Willst du mitmachen ?
 17. mitteilen - inform - Er hat mitgeteilt, dass er nach Indien am Samstag fliegt.
 18. mitnehmen - take along,  ich nehme Foto von meinem Papa immer mit.
-19. nachdenken - think about, ich möchte darüber nachdenken ( i want to think about that)
-20. nachprüfen - double check (essay, documents) , ich muss immer meine Antworten nachprüfen.
+19. nachdenken - think about, ich mÃ¶chte darÃ¼ber nachdenken ( i want to think about that)
+20. nachprÃ¼fen - double check (essay, documents) , ich muss immer meine Antworten nachprÃ¼fen.
 21. stattfinden - an event taking place... Die Party findet am Samstag um 16 Uhr statt.
 				       Die Party hat am Samstag in letztem Jahr stattgefunden.
 22. vorbereiten - prepare
@@ -97,15 +97,12 @@ TRENNBARES VERB
 
 
 
-2. Tenses 
+## 2. Tenses 
 
-	*present
-
-	* past ( sass, lief, etc.)
-
-	* haben + partizip 2
-
-	* future (werden)
+* present
+* past ( sass, lief, etc.)
+* haben + partizip 2
+* future (werden)
  
 
 
@@ -123,10 +120,10 @@ TRENNBARES VERB
 
 Example
 			Masculine		Feminine		Neuter			Plural
-	Nom.	welcher schwierige Fall	solche rote Tinte	dieses schöne Haus		alle alkoholfreien Getränke
-	Acc.	welchen schwierigen Fall	solche rote Tinte	dieses schöne Haus		alle alkoholfreien Getränke
-	Dat.	welchem schwierigen Fall(e)	solcher roten Tinte	diesem schönen Haus(e)	allen alkoholfreien Getränken
-	Gen.	welches schwierigen Fall(e)s	solcher roten Tinte	dieses schönen Hauses	aller alkoholfreien Getränke
+	Nom.	welcher schwierige Fall	solche rote Tinte	dieses schÃ¶ne Haus		alle alkoholfreien GetrÃ¤nke
+	Acc.	welchen schwierigen Fall	solche rote Tinte	dieses schÃ¶ne Haus		alle alkoholfreien GetrÃ¤nke
+	Dat.	welchem schwierigen Fall(e)	solcher roten Tinte	diesem schÃ¶nen Haus(e)	allen alkoholfreien GetrÃ¤nken
+	Gen.	welches schwierigen Fall(e)s	solcher roten Tinte	dieses schÃ¶nen Hauses	aller alkoholfreien GetrÃ¤nke
 
 
 	* Unbesttimmt Artike
@@ -141,10 +138,10 @@ Example
 	
 
 			Masculine			Feminine		Neuter			Plural
-	Nominative	mein schwieriger Fall	seine rote Tinte	euer schönes Haus		keine alkoholfreien Getränke
-	Accusative	meinen schwierigen Fall	seine rote Tinte	euer schönes Haus		keine alkoholfreien Getränke
-	Dative		meinem schwierigen Fall(e)	seiner roten Tinte	eurem schönen Haus(e)	keinen alkoholfreien Getränken
-	Genitive		meines schwierigen Fall(e)s	seiner roten Tinte	eures schönen Hauses	keiner alkoholfreien Getränke
+	Nominative	mein schwieriger Fall	seine rote Tinte	euer schÃ¶nes Haus		keine alkoholfreien GetrÃ¤nke
+	Accusative	meinen schwierigen Fall	seine rote Tinte	euer schÃ¶nes Haus		keine alkoholfreien GetrÃ¤nke
+	Dative		meinem schwierigen Fall(e)	seiner roten Tinte	eurem schÃ¶nen Haus(e)	keinen alkoholfreien GetrÃ¤nken
+	Genitive		meines schwierigen Fall(e)s	seiner roten Tinte	eures schÃ¶nen Hauses	keiner alkoholfreien GetrÃ¤nke
 
 
 	* ohne Artikel
