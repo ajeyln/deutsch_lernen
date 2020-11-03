@@ -1,5 +1,28 @@
 <h1 align="center"> Wichtige Grammatik_Teil</h1>
 
+## 0. SPRECHEN and SCHREIBEN Tipps from Grammatik
+ 
+ **VERB**
+ 1. **must**: use Modal verbs 2x 
+ 2. **bonus**: Use at least 1x Reflexive or Trennbares Verb
+ 3. **must**: Use Future and past tense
+ 4. **bonus**: Use Verb with Dativ ( Example : *Wir danken unseren Freunden für ihre Hilfe* )
+ 5. **must**: Use 1x Passiv voice
+ 6. **bonus**: Um+zu Verb
+ 
+ **Others**
+ 1. **must**: Use adjectiv declination ( you must be 100% sure)
+ 2. **must**: Passiv voice
+ 3. **must**: nebensatz with weil, dass, während whenever possible (no experiments), also with modal verbs, trennbares verb
+ 4. **bonus**: nebensatz with Relativ Pronomen
+ 5. **must**: Indirekt rede (you can use in Letter writing, *Raju hat mir gesagt, dass er spät kommt*, *Könnten Sie mir 100 Rupien geben?*)
+ 6. **must** : smiple genetiv case (you must be 100% sure)
+ 7. **must**:  fixed preposition verbs- example : suche nach, arbeite an, denke an, träume von
+ 8. **bonus** : relativ pronomen
+ 9. **TeKaMoLo** : only in writing use it.. at least 2 sentences
+
+
+
 ## 1. Verbs types
 
 #### REFLEXIVES VERBS
