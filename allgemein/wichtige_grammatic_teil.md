@@ -1,18 +1,19 @@
+<h1 align="center"> Wichtige Grammatik_Teil</h1>
 
-1. Verbs types
+## Verbs types
 
+	* **REFLEXIVES VERBS** <br />
 
-MODAL VERB
-
-
-REFLEXIVES VERB
-
-	ich	  mich	
-	du	  dich	
-	er/sie/es  sich	
-	wir	uns	
-	ihr	euch	
-	sie/Sie	sich	
+		|Nominative|Accusative|Dative|
+		|-----------|----------|------|
+		|ich | mich | mir |
+		|du | dich | dir |	 	 
+		|er/es/sie | sich |	 sich |
+		|wir | uns| uns | 
+		|ihr | euch | euch | 
+		|sie/Sie | sich/Sich | sich/Sich|
+		 	 	 	 	 
+		
 1. sich ärgern - to get angry, (Manuel und Paula ärgern sich über das Wetter)
 2. sich bewegen - to move, ( Am Wochenende möchten wir uns  ein bisschen im Garten bewegen)
 3. sich freuen  - to be happy ( ich freue mich auf Geburstagfeier am Samstag ! )
@@ -182,4 +183,3 @@ Example
 
 
 10.Relative pronomen
-9. Zweiteilige Konnektoren
