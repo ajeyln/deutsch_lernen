@@ -2,7 +2,6 @@
 
 This repository contains all my learning materials for preparing for German Language exams, level B1 and B2.
 
-
 ## Content
 
 **allgemein** - the folder contains common topics, tipps for german language
