@@ -17,7 +17,7 @@ This repository contains all my learning materials for preparing for German Lang
 in each folder, there are following additional folders with appropriate content
 
 Folder Name | Description
-----------|--------------
+----------|-------------- 
 *lesen* |reading materials
 *hören* | listening materials
 *sprechen* | speaking materials
