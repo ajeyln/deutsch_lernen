@@ -8,7 +8,7 @@
  3. **must**: Use Future and past tense
  4. **bonus**: Use Verb with Dativ ( Example : *Wir danken unseren Freunden für ihre Hilfe* )
  5. **must**: Use 1x Passiv voice
- 6. **bonus**: Um+zu Verb
+ 6. **bonus**: Zweiteilige Konnektoren
  
  **Others**
  1. **must**: Use adjectiv declination ( you must be 100% sure)
