@@ -18,37 +18,38 @@
 |	14	|	fahrlässig	|	negligent (bejavabdariyuta)	|
 |	15	|	geeignet	|	suitable	|
 |	16	|	gemeinsam	|	mutual,together	|
-|	17	|	glaubwürdig	|	credible, believable	|
-|	18	|	großartig	|	magnificent	|
-|	19	|	großzügig	|	generous	|
-|	20	|	gültig	|	valid	|
-|	21	|	heilig	|	holy	|
-|	22	|	hochmütig	|	 Proud	|
-|	23	|	korrupt	|	corrupt	|
-|	24	|	kostegünstig	|	 Affordable( economical)	|
-|	25	|	mächtig	|	powerful	|
-|	26	|	mehrfachig	|	 Various	|
-|	27	|	merkwürdig	|	unusual, strange	|
-|	28	|	misstrauisch	|	mistrustful	|
-|	29	|	mutig	|	courageous	|
-|	30	|	Nachherig 	|	afterwards	|
-|	31	|	nachlässig	|	careless, negligent	|
-|	32	|	neugierig	|	 curios	|
-|	33	|	reichlich	|	generous	|
-|	34	|	risikant	|	risky	|
-|	35	|	schrecklich	|	awful, terrible	|
-|	36	|	Selbständig	|	 self-dependent	|
-|	37	|	Sensibel, Empfindlich	|	 sensitive	|
-|	38	|	technisch	|	technical	|
-|	39	|	umweltbewusst	|	environmentally conscious	|
-|	40	|	umweltfreundlich	|	environmentally friendly	|
-|	41	|	unendlich	|	infinite	|
-|	42	|	unglaublich	|	unbelievable	|
-|	43	|	Vorherig	|	previously	|
-|	44	|	Weltlich	|	secular	|
-|	45	|	wertvoll	|	valuable	|
-|	46	|	ziemlich	|	pretty	|
-|	47	|	zufällig	|	coincidental, accidental	|
-|	48	|	zuverlässig	|	reliable	|
-|	49	|	zuversichtlich	|	confident	|
-
+|	17	|	gesetztreu	|	law abiding	|
+|	18	|	glaubwürdig	|	credible, believable	|
+|	19	|	großartig	|	magnificent	|
+|	20	|	großzügig	|	generous	|
+|	21	|	gültig	|	valid	|
+|	22	|	heilig	|	holy	|
+|	23	|	hochmütig	|	 Proud	|
+|	24	|	korrupt	|	corrupt	|
+|	25	|	kostegünstig	|	 Affordable( economical)	|
+|	26	|	mächtig	|	powerful	|
+|	27	|	mehrfachig	|	 Various	|
+|	28	|	merkwürdig	|	unusual, strange	|
+|	29	|	misstrauisch	|	mistrustful	|
+|	30	|	mutig	|	courageous	|
+|	31	|	Nachherig 	|	afterwards	|
+|	32	|	nachlässig	|	careless, negligent	|
+|	33	|	neugierig	|	 curios	|
+|	34	|	reichlich	|	generous	|
+|	35	|	risikant	|	risky	|
+|	36	|	schrecklich	|	awful, terrible	|
+|	37	|	Selbständig	|	 self-dependent	|
+|	38	|	Sensibel, Empfindlich	|	 sensitive	|
+|	39	|	technisch	|	technical	|
+|	40	|	treu	|	loyal	|
+|	41	|	umweltbewusst	|	environmentally conscious	|
+|	42	|	umweltfreundlich	|	environmentally friendly	|
+|	43	|	unendlich	|	infinite	|
+|	44	|	unglaublich	|	unbelievable	|
+|	45	|	Vorherig	|	previously	|
+|	46	|	Weltlich	|	secular	|
+|	47	|	wertvoll	|	valuable	|
+|	48	|	ziemlich	|	pretty	|
+|	49	|	zufällig	|	coincidental, accidental	|
+|	50	|	zuverlässig	|	reliable	|
+|	51	|	zuversichtlich	|	confident	|
