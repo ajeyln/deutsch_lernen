@@ -58,6 +58,7 @@
 |	54	|	**Beten**	|	to pray	|	hat gebetet	|		|
 |	55	|	**Sperren**	|	to block	|	hat gesperrt	|		|
 |	56	|	Berichten	|	to report |	hat berichtet	|		|
+|	57	|	Vermeiden	|	to avoid |	hat vermieden	|		|
 
 
 <h1 align="center"> Einfache Verben mit Präteritum </h1>
