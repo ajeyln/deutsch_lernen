@@ -8,7 +8,7 @@
 |	4	|	anpassungsfähig / flexibel	|	adaptable, flexible	|
 |	5	|	anständig	|	decent, moral	|
 |	6	|	aufregend	|	exciting	|
-|	7	|	beständig - stabil	|	 stable	|
+|	7	|	beständig / stabil	|	 stable	|
 |	8	|	ehemalig	|	old,formal	|
 |	9	|	ehrgeizig	|	ambitious	|
 |	10	|	ehrlich	|	honest	|
