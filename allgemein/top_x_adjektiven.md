@@ -40,6 +40,6 @@
 |	36	|	ziemlich	|	pretty	|
 |	37	|	zufällig	|	coincidental, accidental	|
 |	38	|	zuverlässig	|	reliable	|
-|	39	|	Vorher	|	before	|
-|	40	|	Nachher	|	after	|
+|	39	|	Vorherig	|	previously	|
+|	40	|	Nachherig |	afterwards	|
 
