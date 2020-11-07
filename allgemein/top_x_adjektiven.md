@@ -12,7 +12,7 @@
 |	8	|	blöd	|	ignorant, stupid	|
 |	9	|	ehrgeizig	|	ambitious	|
 |	10	|	ehrlich	|	honest	|
-|	11	|	ehemalige	|	old,formal	|
+|	11	|	ehemalig	|	old,formal	|
 |	12	|	erfolgreich	|	successful	|
 |	13	|	fahrlässig	|	negligent (bejavabdariyuta)	|
 |	14	|	gemeinsam	|	mutual,together	|
