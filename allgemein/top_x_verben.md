@@ -65,36 +65,22 @@
 
 |	S.I No	|	Verben	|	Meaning	|	Präteritum |
 |---------|---------|--------|----------|
-|	1	|	antworten	|	to answer	|	antworteten	|
-|	2	|	arbeiten	|	to work	|	arbeiteten	|
-|	3	|	besuchen	|	to visit	|	besuchten	|
-|	4	|	bringen	|	to bring, take	|	brachten	|
-|	5	|	bleiben	|	to stay, remain	|	bliebren	|
-|	6	|	danken	|	to thank	|	dankten	|
-|	7	|	denken	|	to think	|	dachten	|
-|	8	|	fahren	|	to travel, to drive	|	fuhren	|
-|	9	|	essen	|	to eat	|	aßen	|
-|	10	|	finden	|	to find	|	fanden	|
-|	11	|	fliegen	|	to fly	|	flogen	|
-|	12	|	fragen	|	to ask	|	fragten	|
-|	13	|	geben	|	to give	|	gaben	|
-|	14	|	gehen	|	to go	|	gingen	|
-|	15	|	helfen	|	to help	|	halfen	|
-|	16	|	hören	|	to hear, listen	|	hörten	|
-|	17	|	kaufen	|	to buy	|	kauften	|
-|	18	|	kommen	|	to come	|	kamrn	|
-|	19	|	lesen	|	to read	|	lasrn	|
-|	20	|	lieben	|	to love	|	liebten	|
-|	21	|	machen	|	to make, do	|	machten	|
-|	22	|	nehmen	|	to take	|	nahmen	|
-|	23	|	sagen	|	to say, tell	|	sagten	|
-|	24	|	schreiben	|	to write	|	schrieben	|
-|	25	|	sehen	|	to see	|	sahen	|
-|	26	|	senden	|	to send, transmit	|	sendeten	|
-|	27	|	setzen	|	to put, set	|	setzten	|
-|	28	|	singen	|	to sing	|	sangen	|
-|	29	|	spielen	|	to play, act	|	spielten	|
-|	30	|	sprechen	|	to speak	|	sprachen	|
-|	31	|	suchen	|	to seek, search	|	suchten	|
-|	32	|	trinken	|	to drink	|	tranken	|
-|	33	|	wohnen	|	to reside, live (in)	|	wohnten	|
+|	1	|	bringen	|	to bring, take	|	brachten	|
+|	2	|	bleiben	|	to stay, remain	|	blieben	|
+|	3	|	fahren	|	to travel, to drive	|	fuhren	|
+|	4	|	essen	|	to eat	|	aßen	|
+|	5	|	finden	|	to find	|	fanden	|
+|	6	|	fliegen	|	to fly	|	flogen	|
+|	7	|	geben	|	to give	|	gaben	|
+|	8	|	gehen	|	to go	|	gingen	|
+|	9	|	helfen	|	to help	|	halfen	|
+|	10	|	kommen	|	to come	|	kamen	|
+|	11	|	lesen	|	to read	|	lasen	|
+|	12	|	nehmen	|	to take	|	nahmen	|
+|	13	|	schreiben	|	to write	|	schrieben	|
+|	14	|	sehen	|	to see	|	sahen	|
+|	15	|	singen	|	to sing	|	sangen	|
+|	16	|	sprechen	|	to speak	|	sprachen	|
+|	17	|	trinken	|	to drink	|	tranken	|
+
+
