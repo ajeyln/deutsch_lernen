@@ -10,36 +10,40 @@
 |	6	|	aufregend	|	exciting	|
 |	7	|	beständig	|	 stable	|
 |	8	|	blöd	|	ignorant, stupid	|
-|	9	|	ehrgeizig	|	ambitious	|
-|	10	|	ehrlich	|	honest	|
-|	11	|	ehemalig	|	old,formal	|
+|	9	|	ehemalig	|	old,formal	|
+|	10	|	ehrgeizig	|	ambitious	|
+|	11	|	ehrlich	|	honest	|
 |	12	|	erfolgreich	|	successful	|
 |	13	|	fahrlässig	|	negligent (bejavabdariyuta)	|
 |	14	|	gemeinsam	|	mutual,together	|
 |	15	|	glaubwürdig	|	credible, believable	|
 |	16	|	großartig	|	magnificent	|
-|	17	|	gültig	|	valid	|
-|	18	|	hochmütig	|	 Proud	|
-|	19	|	kostegünstig	|	 Affordable( economical)	|
-|	20	|	mehrfachig	|	 Various	|
-|	21	|	merkwürdig	|	unusual, strange	|
-|	22	|	misstrauisch	|	mistrustful	|
-|	23	|	mutig	|	courageous	|
-|	24	|	nachlässig	|	careless, negligent	|
-|	25	|	neugierig	|	 curios	|
-|	26	|	reichlich	|	 Generous (udaari kannada)	|
-|	27	|	schrecklich	|	awful, terrible	|
-|	28	|	Selbständig	|	 self-dependent	|
-|	29	|	Sensibel, Empfindlich	|	 sensitive	|
-|	30	|	umweltbewusst	|	environmentally conscious	|
-|	31	|	umweltfreundlich	|	environmentally friendly	|
-|	32	|	unglaublich	|	unbelievable	|
-|	33	|	unumstößlich	|	 Unbreakable	|
-|	34	|	Weltlich	|	 Secular	|
-|	35	|	wertvoll	|	valuable	|
-|	36	|	ziemlich	|	pretty	|
-|	37	|	zufällig	|	coincidental, accidental	|
-|	38	|	zuverlässig	|	reliable	|
-|	39	|	Vorherig	|	previously	|
-|	40	|	Nachherig |	afterwards	|
+|	17	|	großzügig	|	generous	|
+|	18	|	gültig	|	valid	|
+|	19	|	hochmütig	|	 Proud	|
+|	20	|	kostegünstig	|	 Affordable( economical)	|
+|	21	|	mächtig	|	powerful	|
+|	22	|	mehrfachig	|	 Various	|
+|	23	|	merkwürdig	|	unusual, strange	|
+|	24	|	misstrauisch	|	mistrustful	|
+|	25	|	mutig	|	courageous	|
+|	26	|	Nachherig 	|	afterwards	|
+|	27	|	nachlässig	|	careless, negligent	|
+|	28	|	neugierig	|	 curios	|
+|	29	|	reichlich	|	generous	|
+|	30	|	schrecklich	|	awful, terrible	|
+|	31	|	Selbständig	|	 self-dependent	|
+|	32	|	Sensibel, Empfindlich	|	 sensitive	|
+|	33	|	umweltbewusst	|	environmentally conscious	|
+|	34	|	umweltfreundlich	|	environmentally friendly	|
+|	35	|	unglaublich	|	unbelievable	|
+|	36	|	Vorherig	|	previously	|
+|	37	|	Weltlich	|	secular	|
+|	38	|	wertvoll	|	valuable	|
+|	39	|	ziemlich	|	pretty	|
+|	40	|	zufällig	|	coincidental, accidental	|
+|	41	|	zuverlässig	|	reliable	|
+|	42	|	technisch	|	technical	|
+|	43	|	heilig	|	holy	|
+
 
