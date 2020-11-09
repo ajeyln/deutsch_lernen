@@ -1,4 +1,4 @@
-<h1 align="Center"> Zweiteilige Konnktoren</h1>
+<h1 align="Center"> Zweiteilige Konnektoren</h1>
 
 |**Zweitelige Konnktoren**| **Meaning**| **Example**|
 |------------------------|-------------|-------------|
