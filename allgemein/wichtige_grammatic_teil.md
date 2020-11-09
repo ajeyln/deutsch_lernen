@@ -136,12 +136,12 @@
 
 ## 3. Adjektivdeklinationen
 
-+ Important Link for learning verbs:
++ Important Link for learning adverbs:
 
  * Please refer top adjektiven [Top_50_Adjektiven](top_x_adjektiven.md) 
- * Please find the Adjektivdeklinationen as follows :
 
-	*Bestimmt Artikel
+
+ * Bestimmt Artikel<br />
 	
 	
 	|		| **Masculine** | **Neutral** | **Feminin** | **Plural**|
@@ -152,28 +152,29 @@
 	|Genitive |	-en | -en | -en | -en
 	
 
-Beispiel 
-	| |	Masculine |	Neuter	| Feminine	| Plural |
-	|--------|---------------|-------------|-------------|------------|
-	|Nom. |	welcher schwierige Fall | dieses schöne Haus | solche rote Tinte | alle alkoholfreien Getränke
-	|Acc. |	welchen schwierigen Fall |	dieses schöne Haus | solche rote Tinte |	alle alkoholfreien Getränke
-	|Dat. |	welchem schwierigen Fall(e) | diesem schönen Haus(e) | solcher roten Tinte |	allen alkoholfreien Getränken
-	|Gen. |	welches schwierigen Fall(e)s |	dieses schönen Hauses | solcher roten Tinte |	aller alkoholfreien Getränke
-
-
-	* Unbesttimmt Artikel
+* Beispiel 
 	
-	| |	Masculine |	Neuter	| Feminine	| Plural |
+	|      | **Masculine** |**Neutral**	| **Feminine**	| **Plural** |
+	|--------|---------------|-------------|-------------|------------|
+	|Nom. |	welcher schwierige Fall | dieses schöne Haus | solche rote Tinte | alle alkoholfreien Getränke |
+	|Acc. |	welchen schwierigen Fall |	dieses schöne Haus | solche rote Tinte |	alle alkoholfreien Getränke |
+	|Dat. |	welchem schwierigen Fall(e) | diesem schönen Haus(e) | solcher roten Tinte |	allen alkoholfreien Getränken |
+	|Gen. |	welches schwierigen Fall(e)s |	dieses schönen Hauses | solcher roten Tinte |	aller alkoholfreien Getränke |
+
+
+* Unbesttimmt Artikel
+	
+	|      | **Masculine** |**Neutral**	| **Feminine**	| **Plural** |
 	|--------|---------------|-------------|-------------|------------|
 	| Nominative |	-er	|	-es	 | -e |	-en |
 	| Accusative |	-en	|	-es |	-e |	-en |
 	| Dative |	-en	| -en |	-en |	-en |
 	| Genitive | -en |-en |-en	 | -en |
 
-Beispiele
+    
+ * Beispiele
 	
-
-	|		| Masculine | Neutral | Feminine | Plural |
+	|      | **Masculine** |**Neutral**	| **Feminine**	| **Plural** |
 	|-------|--------|----------|---------|---------|
 	|Nominative| mein schwieriger Fall | euer schönes Haus | seine rote Tinte |	keine alkoholfreien Getränke |
 	|Accusative| meinen schwierigen Fall | euer schönes Haus | seine rote Tinte | keine alkoholfreien Getränke |
@@ -181,15 +182,14 @@ Beispiele
 	|Genitive| meines schwierigen Fall(e)s | eures schönen Hauses| seiner roten Tinte | keiner alkoholfreien Getränke |
 
 
-	* ohne Artikel
-	|		| Masculine | Neutral | Feminine | Plural |
+* ohne Artikel
+
+	|      | **Masculine** |**Neutral**	| **Feminine**	| **Plural** |
 	|-------|--------|----------|---------|---------|
 	| Nominative |	-er	| -e |	-es	| -e |
 	| Accusative |	-en	| -e | -es	| -e |
 	| Dative | -em	| -em |-er | -en |
 	| Genitive | -es | -es | -er | -er |
-
-
 
 
 ## 4. Active and Passiv voices
@@ -256,7 +256,17 @@ Beispiele
  + click on the [verb with fixed preposition](verben _mit_fester_Präposition.md)
 
 ## 9. Zweiteilige Konnektoren
- + + click on the [Zweiteilige Konnektoren](zweiteilige_konnektoren.md)
+
+|**Zweitelige Konnktoren**| **Meaning**| **Example**|
+|------------------------|-------------|-------------|
+| nicht nur... sondern auch | not only...but also |  Die Wohnung ist nämlich nicht nur sehr groß, sondern auch sehr billig |
+| sowohl... als auch | both...and also | Ich spreche sowohl Englisch als auch Deutsch|
+| weder... noch | neither.. nor | Sie ist weder reich noch berühmt. |
+| entweder... oder | either..or | Mein Traummann sollte entweder interessant oder reich sein.|
+| einerseits... andererseits | on the one hand...on the other| Einerseits ist Deutsch schwer, andererseits ist es sehr wichtig |
+| zwar... aber | indeed (x)...but (y) | Das Haus ist mir viel zu groß. Ich brauche zwar viel Platz, aber keine nuen Zimmer.|
+| um... zu| in order to |  Ich rufe meinen Freund an, um ihm eine Frage zu stellen |
+|je.. desto/umso |  | Je mehr ich studiere, desto weiser werde ich |
 
 ## 10.Relative pronomen
 
