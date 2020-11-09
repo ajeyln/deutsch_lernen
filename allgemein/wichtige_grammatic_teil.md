@@ -28,7 +28,7 @@
 + Important Link for learning verbs:
 
  * Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md) 
- * For additional verbs [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
+ * Refer for additional [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
 
 #### REFLEXIVES VERBS
 
@@ -128,15 +128,15 @@
 ## 2. Tenses 
 
 * present
-* past ( sass, lief, etc.)
-* haben + partizip 2
-* future (werden)
+* past ( sass, lief, etc.) => Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md)
+* haben + partizip 2 => Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md)
+* future (werden) => remember Konjugation for "werden"
  
 
 
 ## 3. Adjektivdeklinationen
 
-+ Important Link for learning adverbs:
+Important Link for learning adverbs:
 
  * Please refer top adjektiven [Top_50_Adjektiven](top_x_adjektiven.md) 
 
@@ -193,8 +193,12 @@
 
 
 ## 4. Active and Passiv voices
-* past    :  (OBJEKT)  (WURDEN) + .. + (PARTIZIP2-VERB)
-* Present/Future : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
+* **Present/Future** : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
+	+ Raju wird täglich von seiner Schwester geholfen
+	+ Bussen werden täglich im Anspruch genommen, obwohl Züge heutzutage populär sind
+	
+* **Past**    :  (OBJEKT)  (WURDEN) + .. + (PARTIZIP2-VERB)
+	+ Teamwork wurde bei XYZ Limited großgeschrieben. Aber jetzt gibt es neu Management und es ist nicht gut.
 
 
 ## 5. Nebensatz 
@@ -253,7 +257,9 @@
 
 
 ## 8. Fixed Prepositions and Verbs
- + click on the [verb with fixed preposition](verben _mit_fester_Präposition.md)
+ Please refer for more information : 
+ 
+  * [verb with fixed preposition](Verben%20_mit_fester_Pr%C3%A4position.md)
 
 ## 9. Zweiteilige Konnektoren
 
@@ -268,7 +274,7 @@
 | um... zu| in order to |  Ich rufe meinen Freund an, um ihm eine Frage zu stellen |
 |je.. desto/umso |  | Je mehr ich studiere, desto weiser werde ich |
 
-## 10.Relative pronomen
+## 10. Relative pronomen
 
 
 | |**Masculin**|**Neutral**|**Feminin**|**Plural**|
@@ -351,6 +357,10 @@ Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
 
 ## 12. Others
- +  Please refer for top adverben [Top_x_adverben](top_x_adverben.md].
- +  PLease refer for top Nomen-Verben-Verbindungen [Wichtige NVV](wichtige_nvv.md)
+
+ Please refer for top adverben :
+ * [Top_x_adverben](top_x_adverben.md)
+ 
+ Please refer for top Nomen-Verben-Verbindungen (NVV):
+ * [Wichtige NVV](wichtige_nvv.md)
 
