@@ -38,6 +38,13 @@ Folder Name | Description
 
 I store these materials in [link to deutsch_lernen_privte](https://github.com/ajeyln/deutsch_lernen_private)
 
+## Exam Preparation
+  As I was preparing for the B2 exam since last one month, My study plan and materials uploaded in Github. Please go through to this link and these items may help you during examination.
+  
+  a. [Study Plan](/allgemein/STUDY_PLAN.md)
+  b. [How to Start](/allgemein/wichtige_grammatic_teil.md)
+  c. [Practice Material](../uebungen/)
+
 ## Key Take-aways
 
 * Vocabulary for B1/B2
