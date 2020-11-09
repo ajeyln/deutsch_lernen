@@ -329,6 +329,6 @@ Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
 
 ## 12. Others
- +  Click on [Top_x_verben](top_x_adverben.md) for top adverben.
+ +  Click on [Top_x_adverben](top_x_adverben.md) for top adverben.
  +  Click on [Wichtige NVV](wichtige_nvv.md) for top Nomen-Verben-Verbindungen.
 
