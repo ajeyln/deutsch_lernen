@@ -1,6 +1,6 @@
 <h1 align="center"> PREPARATION BRIEF </h1>
 
-## Fast Navigation
+## <a name="top"></a> Fast Navigation
 
 00. [Schreiben/Sprechen Tips](#tipps) <br>
 01. [Verbs](#verbs) <br>
@@ -19,7 +19,8 @@
 12.  [Others](#others) <br>
 
 ## <a name="tipps"></a> 0. SPRECHEN and SCHREIBEN Tipps from Grammatik
- 
+[Top](#top)
+
  **VERB**
  1. **must**: use Modal verbs 2x 
  2. **bonus**: Use at least 1x Reflexive or Trennbares Verb
@@ -42,6 +43,7 @@
 
 
 ## <a name="verbs"></a> 1. Verbs types
+[Top](#top)
 
 Important Link for learning verbs:
 
@@ -83,6 +85,7 @@ Important Link for learning verbs:
 
 
 #### <a name="tverb"></a> TRENNBARES VERB	
+[Top](#top)
 
 1. abgeben - submit
 2. abnehmen - lose weight
@@ -144,6 +147,7 @@ Important Link for learning verbs:
 
 
 ## <a name="tenses"></a> 2. Tenses 
+[Top](#top)
 
 * present
 * past ( sass, lief, etc.) => Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md)
@@ -153,6 +157,7 @@ Important Link for learning verbs:
 
 
 ## 3. <a name="adjective"></a> Adjektivdeklinationen
+[Top](#top)
 
 Important Link for learning adverbs:
 
@@ -211,6 +216,8 @@ Important Link for learning adverbs:
 
 
 ## <a name="passive"></a> 4. Active and Passiv voices
+[Top](#top)
+
 * **Present/Future** : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
 	+ Raju wird täglich von seiner Schwester geholfen
 	+ Bussen werden täglich im Anspruch genommen, obwohl Züge heutzutage populär sind
@@ -220,6 +227,8 @@ Important Link for learning adverbs:
 
 
 ## <a name="neben"></a> 5. Nebensätze 
+[Top](#top)
+
 * *dass, weil, während, als*
 * *relative pronomen*
 * *ob, obwohl* 
@@ -233,6 +242,8 @@ Important Link for learning adverbs:
 
 
 ## <a name="indirect"></a> 6. Indirekte rede
+[Top](#top)
+
 **Do not worry much about this part, know only following basics**
 * *normal* 
 	wörtlich rede ( spoken language) : Tobias sagte gestern: „Ich habe eine Erkältung"
@@ -244,6 +255,8 @@ Important Link for learning adverbs:
 
 
 ## <a name="genetiv"></a> 7. Genetiv case 
+[Top](#top)
+
 
 | **Artikel** | **Masculine** | **Neutral** | **Feminin** | **Plural** |
 |-------------|-----------------|-----------|-------------|------------|
@@ -279,11 +292,15 @@ Important Link for learning adverbs:
 
 
 ## <a name="fixed"></a> 8. Fixed Prepositions and Verbs
+[Top](#top)
+
  Please refer for more information : 
  
   * [verb with fixed preposition](Verben%20_mit_fester_Pr%C3%A4position.md)
 
 ## <a name="zwei"></a> 9. Zweiteilige Konnektoren
+[Top](#top)
+
 
 |**Zweitelige Konnktoren**| **Meaning**| **Example**|
 |------------------------|-------------|-------------|
@@ -297,7 +314,7 @@ Important Link for learning adverbs:
 |je.. desto/umso |  | Je mehr ich studiere, desto weiser werde ich |
 
 ## <a name="relpro"></a> 10. Relative Pronomen
-
+[Top](#top)
 
 | |**Masculin**|**Neutral**|**Feminin**|**Plural**|
 |---|----|----|-----|----|
@@ -337,6 +354,8 @@ Important Link for learning adverbs:
 
 ## <a name="tekamolo"></a>  11. TeKaMoLo
 **ONLY use for WRITING**
+
+[Top](#top)
 
 If you have lot of information to be given in one sentence, you will be wondering which information must be written/said first?
 
@@ -379,6 +398,7 @@ Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
 
 ## <a name="others"></a> 12. Others
+[Top](#top)
 
  Please refer for top adverben :
  * [Top_x_adverben](top_x_adverben.md)
