@@ -47,8 +47,10 @@ I store these materials in [link to deutsch_lernen_privte](https://github.com/aj
   Please go through to these links, which may help you :
   
   a. [Study Plan](/allgemein/STUDY_PLAN.md) <br />
-  b. [How to Start](/allgemein/wichtige_grammatic_teil.md) <br />
-  c. [Practice Material](https://github.com/ajeyln/deutsch_lernen/tree/master/uebungen)
+  b. [Preparation Brief](/allgemein/wichtige_grammatic_teil.md) <br />
+  c. [B2 Practice Materail](https://github.com/ajeyln/deutsch_lernen/tree/master/B2)  <br />
+  d. [Practice Material](https://github.com/ajeyln/deutsch_lernen/tree/master/uebungen)  <br />
+  e. [Pratice Tips](/allgemein/tipps)  <br />
 
 ## Key Take-aways
 
