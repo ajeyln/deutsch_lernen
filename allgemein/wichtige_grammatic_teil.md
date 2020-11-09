@@ -25,7 +25,7 @@
 
 ## 1. Verbs types
 
-+ Important Link for learning verbs:
+Important Link for learning verbs:
 
  * Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md) 
  * Refer for additional [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
