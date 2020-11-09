@@ -25,7 +25,10 @@
 
 ## 1. Verbs types
 
-Please click on the links for the [Top_x_verben](top_x_verben.md) and [Verb list](../gramatik/verben)
++ Important Link for learning verbs:
+
+ * Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md) 
+ * For additional verbs [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
 
 #### REFLEXIVES VERBS
 
@@ -133,49 +136,58 @@ Please click on the links for the [Top_x_verben](top_x_verben.md) and [Verb list
 
 ## 3. Adjektivdeklinationen
 
++ Important Link for learning verbs:
+
+ * Please refer top adjektiven [Top_50_Adjektiven](top_x_adjektiven.md) 
+ * Please find the Adjektivdeklinationen as follows :
+
 	*Bestimmt Artikel
 	
 	
-			Masculine	              Feminine	Neuter	Plural
-	Nominative	-e		-e	-e	-en
-	Accusative	-en		-e	-e	-en
-	Dative		-en		-en	-en	-en
-	Genitive		-en		-en	-en	-en
+	|		| **Masculine** | **Neutral** | **Feminin** | **Plural**|
+	|--------|---------------|-------------|-------------|------------|
+	|Nominative| -e	| -e | -e | -en
+	|Accusative| -en | -e |-e | -en
+	|Dative	|	-en	| -en | -en | -en
+	|Genitive |	-en | -en | -en | -en
 	
 
-Example
-			Masculine		Feminine		Neuter			Plural
-	Nom.	welcher schwierige Fall	solche rote Tinte	dieses schöne Haus		alle alkoholfreien Getränke
-	Acc.	welchen schwierigen Fall	solche rote Tinte	dieses schöne Haus		alle alkoholfreien Getränke
-	Dat.	welchem schwierigen Fall(e)	solcher roten Tinte	diesem schönen Haus(e)	allen alkoholfreien Getränken
-	Gen.	welches schwierigen Fall(e)s	solcher roten Tinte	dieses schönen Hauses	aller alkoholfreien Getränke
+Beispiel 
+	| |	Masculine |	Neuter	| Feminine	| Plural |
+	|--------|---------------|-------------|-------------|------------|
+	|Nom. |	welcher schwierige Fall | dieses schöne Haus | solche rote Tinte | alle alkoholfreien Getränke
+	|Acc. |	welchen schwierigen Fall |	dieses schöne Haus | solche rote Tinte |	alle alkoholfreien Getränke
+	|Dat. |	welchem schwierigen Fall(e) | diesem schönen Haus(e) | solcher roten Tinte |	allen alkoholfreien Getränken
+	|Gen. |	welches schwierigen Fall(e)s |	dieses schönen Hauses | solcher roten Tinte |	aller alkoholfreien Getränke
 
 
-	* Unbesttimmt Artike
+	* Unbesttimmt Artikel
 	
-			Masculine		Feminine	Neuter	Plural
-	Nominative	-er		-e	-es	-en
-	Accusative	-en		-e	-es	-en
-	Dative		-en		-en	-en	-en
-	Genitive		-en		-en	-en	-en
+	| |	Masculine |	Neuter	| Feminine	| Plural |
+	|--------|---------------|-------------|-------------|------------|
+	| Nominative |	-er	|	-es	 | -e |	-en |
+	| Accusative |	-en	|	-es |	-e |	-en |
+	| Dative |	-en	| -en |	-en |	-en |
+	| Genitive | -en |-en |-en	 | -en |
 
-Example
+Beispiele
 	
 
-			Masculine			Feminine		Neuter			Plural
-	Nominative	mein schwieriger Fall	seine rote Tinte	euer schönes Haus		keine alkoholfreien Getränke
-	Accusative	meinen schwierigen Fall	seine rote Tinte	euer schönes Haus		keine alkoholfreien Getränke
-	Dative		meinem schwierigen Fall(e)	seiner roten Tinte	eurem schönen Haus(e)	keinen alkoholfreien Getränken
-	Genitive		meines schwierigen Fall(e)s	seiner roten Tinte	eures schönen Hauses	keiner alkoholfreien Getränke
+	|		| Masculine | Neutral | Feminine | Plural |
+	|-------|--------|----------|---------|---------|
+	|Nominative| mein schwieriger Fall | euer schönes Haus | seine rote Tinte |	keine alkoholfreien Getränke |
+	|Accusative| meinen schwierigen Fall | euer schönes Haus | seine rote Tinte | keine alkoholfreien Getränke |
+	|Dative	| meinem schwierigen Fall(e) | eurem schönen Haus(e) | seiner roten Tinte || keinen alkoholfreien Getränken |
+	|Genitive| meines schwierigen Fall(e)s | eures schönen Hauses| seiner roten Tinte | keiner alkoholfreien Getränke |
 
 
 	* ohne Artikel
-
-			Masculine	Feminine	Neuter	Plural
-	Nominative	-er	-e	-es	-e
-	Accusative	-en	-e	-es	-e
-	Dative		-em	-er	-em	-en
-	Genitive	-	es	-er	-es	-er
+	|		| Masculine | Neutral | Feminine | Plural |
+	|-------|--------|----------|---------|---------|
+	| Nominative |	-er	| -e |	-es	| -e |
+	| Accusative |	-en	| -e | -es	| -e |
+	| Dative | -em	| -em |-er | -en |
+	| Genitive | -es | -es | -er | -er |
 
 
 
@@ -329,6 +341,6 @@ Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
 
 ## 12. Others
- +  Click on [Top_x_adverben](top_x_adverben.md) for top adverben.
- +  Click on [Wichtige NVV](wichtige_nvv.md) for top Nomen-Verben-Verbindungen.
+ +  Please refer for top adverben [Top_x_adverben](top_x_adverben.md].
+ +  PLease refer for top Nomen-Verben-Verbindungen [Wichtige NVV](wichtige_nvv.md)
 
