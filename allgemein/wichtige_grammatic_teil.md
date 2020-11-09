@@ -1,6 +1,24 @@
 <h1 align="center"> PREPARATION BRIEF </h1>
 
-## 0. SPRECHEN and SCHREIBEN Tipps from Grammatik
+## Fast Navigation
+
+00. [Schreiben/Sprechen Tips](#tipps) <br>
+01. [Verbs](#verbs) <br>
+      1.1 [Reflexive Verbs](#refverb) <br>
+      1.2 [Trennbares Verbs](#tverb) <br>
+02.  [Tenses](#tenses) <br>
+03.  [Adjektiv und Deklinationen](#adjective) <br>
+04.  [Active and Passive Voices](#passive) <br>
+05.  [Nebensätze](#neben) <br>
+06.  [Indirekte Rede](#indirect) <br>
+07.  [Genetive Case](#genetiv) <br>
+08.  [Verbs with Fixed Prepositions](#fixed) <br> 
+09.  [Zweiteilige Konnektoren](#zwei) <br>
+10.  [Relative Pronomen](#relpro) <br> 
+11.  [TeKaMoLo](#tekamolo) <br>
+12.  [Others](#others) <br>
+
+## <a name="tipps"></a> 0. SPRECHEN and SCHREIBEN Tipps from Grammatik
  
  **VERB**
  1. **must**: use Modal verbs 2x 
@@ -23,14 +41,14 @@
 
 
 
-## 1. Verbs types
+## <a name="verbs"></a> 1. Verbs types
 
 Important Link for learning verbs:
 
  * Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md) 
  * Refer for additional [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
 
-#### REFLEXIVES VERBS
+#### <a name="refverb"></a> REFLEXIVES VERBS
 
 |Nominative|Accusative|Dative|
 |-----------|----------|------|
@@ -64,7 +82,7 @@ Important Link for learning verbs:
 20. sich  kümmern um - to look after, to take care of - Mein Brüder kümmert sich um alte Eltern ( my brother takes care of old parents)
 
 
-#### TRENNBARES VERB	
+#### <a name="tverb"></a> TRENNBARES VERB	
 
 1. abgeben - submit
 2. abnehmen - lose weight
@@ -125,7 +143,7 @@ Important Link for learning verbs:
 
 
 
-## 2. Tenses 
+## <a name="tenses"></a> 2. Tenses 
 
 * present
 * past ( sass, lief, etc.) => Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md)
@@ -134,7 +152,7 @@ Important Link for learning verbs:
  
 
 
-## 3. Adjektivdeklinationen
+## 3. <a name="adjective"></a> Adjektivdeklinationen
 
 Important Link for learning adverbs:
 
@@ -192,7 +210,7 @@ Important Link for learning adverbs:
 	| Genitive | -es | -es | -er | -er |
 
 
-## 4. Active and Passiv voices
+## <a name="passive"></a> 4. Active and Passiv voices
 * **Present/Future** : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
 	+ Raju wird täglich von seiner Schwester geholfen
 	+ Bussen werden täglich im Anspruch genommen, obwohl Züge heutzutage populär sind
@@ -201,7 +219,7 @@ Important Link for learning adverbs:
 	+ Teamwork wurde bei XYZ Limited großgeschrieben. Aber jetzt gibt es neu Management und es ist nicht gut.
 
 
-## 5. Nebensatz 
+## <a name="neben"></a> 5. Nebensätze 
 * *dass, weil, während, als*
 * *relative pronomen*
 * *ob, obwohl* 
@@ -214,7 +232,7 @@ Important Link for learning adverbs:
 
 
 
-## 6. Indirekte rede
+## <a name="indirect"></a> 6. Indirekte rede
 **Do not worry much about this part, know only following basics**
 * *normal* 
 	wörtlich rede ( spoken language) : Tobias sagte gestern: „Ich habe eine Erkältung"
@@ -225,7 +243,7 @@ Important Link for learning adverbs:
 	Könntest du mir bitte Bescheid geben, wo mein Manager heute arbeitet ?
 
 
-## 7. Genetiv case 
+## <a name="genetiv"></a> 7. Genetiv case 
 
 | **Artikel** | **Masculine** | **Neutral** | **Feminin** | **Plural** |
 |-------------|-----------------|-----------|-------------|------------|
@@ -260,12 +278,12 @@ Important Link for learning adverbs:
 
 
 
-## 8. Fixed Prepositions and Verbs
+## <a name="fixed"></a> 8. Fixed Prepositions and Verbs
  Please refer for more information : 
  
   * [verb with fixed preposition](Verben%20_mit_fester_Pr%C3%A4position.md)
 
-## 9. Zweiteilige Konnektoren
+## <a name="zwei"></a> 9. Zweiteilige Konnektoren
 
 |**Zweitelige Konnktoren**| **Meaning**| **Example**|
 |------------------------|-------------|-------------|
@@ -278,7 +296,7 @@ Important Link for learning adverbs:
 | um... zu| in order to |  Ich rufe meinen Freund an, um ihm eine Frage zu stellen |
 |je.. desto/umso |  | Je mehr ich studiere, desto weiser werde ich |
 
-## 10. Relative pronomen
+## <a name="relpro"></a> 10. Relative Pronomen
 
 
 | |**Masculin**|**Neutral**|**Feminin**|**Plural**|
@@ -317,7 +335,7 @@ Important Link for learning adverbs:
 	a. Ein Mann, **dessen** Handy klingelte, wusste nicht, was er tun sollte.<br />
 	b. Eine Mutter, **deren** Kind weinte, war auch sehr beunruhigt.
 
-## 11. TeKaMoLo
+## <a name="tekamolo"></a>  11. TeKaMoLo
 **ONLY use for WRITING**
 
 If you have lot of information to be given in one sentence, you will be wondering which information must be written/said first?
@@ -360,7 +378,7 @@ Question: why King David was killed ? ( focus is on Cause, Kausal, reason)
 Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris 
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
 
-## 12. Others
+## <a name="others"></a> 12. Others
 
  Please refer for top adverben :
  * [Top_x_adverben](top_x_adverben.md)
