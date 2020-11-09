@@ -25,7 +25,7 @@
 
 ## 1. Verbs types
 
-Please click on the links for the [Top_x_verben](top_x_verben) and [Verb list](../gramatik)
+Please click on the links for the [Top_x_verben](top_x_verben.md) and [Verb list](../gramatik)
 
 #### REFLEXIVES VERBS
 
