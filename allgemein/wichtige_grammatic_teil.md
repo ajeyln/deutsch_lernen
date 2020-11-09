@@ -25,6 +25,8 @@
 
 ## 1. Verbs types
 
+Please click on the links for the [Top_x_verben](top_x_verben) and [Verb list](../gramatik)
+
 #### REFLEXIVES VERBS
 
 |Nominative|Accusative|Dative|
@@ -209,15 +211,79 @@ Example
 
 ## 7. Genetiv case 
 
+| **Artikel** | **Masculine** | **Neutral** | **Feminin** | **Plural** |
+|-------------|-----------------|-----------|-------------|------------|
+| **Bestimmt** | des -s/-es | des -s/-es | der | der | 
+| **Unbestimmt** | eines -s/-es | eines -s/-es | einer|  |
+| **Negative Artikel** | keines -s/-es | keines -s/-es | keiner | keiner |
+
++ **Demontrative pronomen** will come under Bestimmt Artikel
++ **Possessiv pronomen will** come under Unbestimmt Artikel
+
+
++ **Beispiele**
+
+	* **Bestimmt Artikel**
+	
+		a. Der Motor **dieses Autos** ist viel zu klein. 	               This car's engine is much too small.
+		b. Das Dach **des Hauses** war unbeschädigt. 					   The roof of the house was undamaged.
+
+
+
+	* **Unbestimmt Artikel**
+	
+		a. Was ist die Telefonnummer **deiner schönen Kusine**?            What is your beautiful cousin's phone number?
+		b. Sie hat den Brief **ihres Vaters** gar nicht gesehen.	       She never saw her father's letter.
+		c. Das Bild **deiner Frau** ist besonders gut.	                   Your wife's picture is particularly good. 
+		d. Die größte Liebe **aller deutschen Männer** ist Fußball. 	   The greatest love of all German men is soccer.
+
 
 
 
 ## 8. Fixed Prepositions and Verbs
+ + click on the [verb with fixed preposition](verben _mit_fester_Präposition.md)
 
 ## 9. Zweiteilige Konnektoren
-
+ + + click on the [Zweiteilige Konnektoren](zweiteilige_konnektoren.md)
 
 ## 10.Relative pronomen
+
+
+| |**Masculin**|**Neutral**|**Feminin**|**Plural**|
+|---|----|----|-----|----|
+|**Nominative**| der / welcher | das / welches | die  / welche | die / welche |
+|**Accusative**| den / welchen | das / welches | die  / welche | die / welche |
+|**Dative**| dem / whelchem | dem / welchem | der / welcher| deren / welchen |
+|**Genetive**| dessen | dessen | deren | deren |
+
+### **Beispiele**
+
+* **Nominative Case**
+
+	a. Der Mann, **der** die Bank ausraubte, war maskiert. <br />
+	b. So kam all das Geld, **das** gestohlen worden war, wieder in die Bank zurück. <br />
+	c. Das ist die Bank, **die** gestern ausgeraubt wurde. <br />
+	d. Die Leute, **die** in der Bank waren, hatten große Angst. <br />
+	e. Der Mann, **der** den Fluchtwagen fuhr, war sehr nervös.
+	
+* **Accusative Case**
+	
+	a. Er hatte einen Komplizen, **den** er im Auto warten ließ.<br />
+	b. Die Frau, **die** dem Bankräuber das Geld geben musste, war jung.
+	
+* **Dative Case**
+	
+	a. Der Bankräuber verließ die Bank durch einen Ausgang, von **dem** nur die Angestellten wissen. <br />
+	b. Die Bankangestellten, **denen** der Räuber drohte, trauten sich nicht, den Alarmknopf zu drücken. <br />
+	c. Einige Polizisten, **denen** das Auto verdächtig vorkam, stoppten die Bankräuber.<br />
+	d. Die Taschen, in **denen** das Geld war, waren blau.<br />
+	e. Das Auto, mit **dem** die Bankräuber entkamen, war orange. <br />
+	f. Sie erkannten den Bankräuber, nach **dem** schon lange gesucht wurde, und verhafteten die beiden Täter. 
+		
+* **Genetive Case**
+		
+	a. Ein Mann, **dessen** Handy klingelte, wusste nicht, was er tun sollte.<br />
+	b. Eine Mutter, **deren** Kind weinte, war auch sehr beunruhigt.
 
 ## 11. TeKaMoLo
 **ONLY use for WRITING**
@@ -261,3 +327,8 @@ Question: why King David was killed ? ( focus is on Cause, Kausal, reason)
 
 Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris 
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
+
+## 12. Others
+ +  Click on [Top_x_verben](top_x_adverben.md) for top adverben.
+ +  Click on [Wichtige NVV](wichtige_nvv.md) for top Nomen-Verben-Verbindungen.
+
