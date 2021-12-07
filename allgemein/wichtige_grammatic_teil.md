@@ -1,7 +1,26 @@
-<h1 align="center"> Wichtige Grammatik_Teil</h1>
+<h1 align="center"> PREPARATION BRIEF </h1>
 
-## 0. SPRECHEN and SCHREIBEN Tipps from Grammatik
- 
+## <a name="top"></a> Fast Navigation
+
+00. [Schreiben/Sprechen Tips](#tipps) <br>
+01. [Verbs](#verbs) <br>
+      1.1 [Reflexive Verbs](#refverb) <br>
+      1.2 [Trennbares Verbs](#tverb) <br>
+02.  [Tenses](#tenses) <br>
+03.  [Adjektiv und Deklinationen](#adjective) <br>
+04.  [Active and Passive Voices](#passive) <br>
+05.  [Nebensätze](#neben) <br>
+06.  [Indirekte Rede](#indirect) <br>
+07.  [Genetive Case](#genetiv) <br>
+08.  [Verbs with Fixed Prepositions](#fixed) <br> 
+09.  [Zweiteilige Konnektoren](#zwei) <br>
+10.  [Relative Pronomen](#relpro) <br> 
+11.  [TeKaMoLo](#tekamolo) <br>
+12.  [Others](#others) <br>
+
+## <a name="tipps"></a> 0. SPRECHEN and SCHREIBEN Tipps from Grammatik
+[Top](#top)
+
  **VERB**
  1. **must**: use Modal verbs 2x 
  2. **bonus**: Use at least 1x Reflexive or Trennbares Verb
@@ -23,14 +42,15 @@
 
 
 
-## 1. Verbs types
+## <a name="verbs"></a> 1. Verbs types
+[Top](#top)
 
-+ Important Link for learning verbs:
+Important Link for learning verbs:
 
  * Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md) 
- * For additional verbs [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
+ * Refer for additional [Verbs](https://github.com/ajeyln/deutsch_lernen/tree/master/allgemein/grammatik/verben)
 
-#### REFLEXIVES VERBS
+#### <a name="refverb"></a> REFLEXIVES VERBS
 
 |Nominative|Accusative|Dative|
 |-----------|----------|------|
@@ -64,7 +84,8 @@
 20. sich  kümmern um - to look after, to take care of - Mein Brüder kümmert sich um alte Eltern ( my brother takes care of old parents)
 
 
-#### TRENNBARES VERB	
+#### <a name="tverb"></a> TRENNBARES VERB	
+[Top](#top)
 
 1. abgeben - submit
 2. abnehmen - lose weight
@@ -125,18 +146,20 @@
 
 
 
-## 2. Tenses 
+## <a name="tenses"></a> 2. Tenses 
+[Top](#top)
 
 * present
-* past ( sass, lief, etc.)
-* haben + partizip 2
-* future (werden)
+* past ( sass, lief, etc.) => Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md)
+* haben + partizip 2 => Please refer [Top_50_verbs with partizip -2 and past tense](top_x_verben.md)
+* future (werden) => remember Konjugation for "werden"
  
 
 
-## 3. Adjektivdeklinationen
+## 3. <a name="adjective"></a> Adjektivdeklinationen
+[Top](#top)
 
-+ Important Link for learning adverbs:
+Important Link for learning adverbs:
 
  * Please refer top adjektiven [Top_50_Adjektiven](top_x_adjektiven.md) 
 
@@ -192,12 +215,20 @@
 	| Genitive | -es | -es | -er | -er |
 
 
-## 4. Active and Passiv voices
-* past    :  (OBJEKT)  (WURDEN) + .. + (PARTIZIP2-VERB)
-* Present/Future : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
+## <a name="passive"></a> 4. Active and Passiv voices
+[Top](#top)
+
+* **Present/Future** : (OBJEKT)  (WERDEN) + .. + (PARTIZIP2-VERB) =>> (**REMEMBER**: WIRD IF OBJECT IS SINGULAR)
+	+ Raju wird täglich von seiner Schwester geholfen
+	+ Bussen werden täglich im Anspruch genommen, obwohl Züge heutzutage populär sind
+	
+* **Past**    :  (OBJEKT)  (WURDEN) + .. + (PARTIZIP2-VERB)
+	+ Teamwork wurde bei XYZ Limited großgeschrieben. Aber jetzt gibt es neu Management und es ist nicht gut.
 
 
-## 5. Nebensatz 
+## <a name="neben"></a> 5. Nebensätze 
+[Top](#top)
+
 * *dass, weil, während, als*
 * *relative pronomen*
 * *ob, obwohl* 
@@ -210,7 +241,9 @@
 
 
 
-## 6. Indirekte rede
+## <a name="indirect"></a> 6. Indirekte rede
+[Top](#top)
+
 **Do not worry much about this part, know only following basics**
 * *normal* 
 	wörtlich rede ( spoken language) : Tobias sagte gestern: „Ich habe eine Erkältung"
@@ -221,7 +254,9 @@
 	Könntest du mir bitte Bescheid geben, wo mein Manager heute arbeitet ?
 
 
-## 7. Genetiv case 
+## <a name="genetiv"></a> 7. Genetiv case 
+[Top](#top)
+
 
 | **Artikel** | **Masculine** | **Neutral** | **Feminin** | **Plural** |
 |-------------|-----------------|-----------|-------------|------------|
@@ -238,6 +273,7 @@
 	* **Bestimmt Artikel**
 	
 		a. Der Motor **dieses Autos** ist viel zu klein. 	               This car's engine is much too small.
+		
 		b. Das Dach **des Hauses** war unbeschädigt. 					   The roof of the house was undamaged.
 
 
@@ -245,17 +281,26 @@
 	* **Unbestimmt Artikel**
 	
 		a. Was ist die Telefonnummer **deiner schönen Kusine**?            What is your beautiful cousin's phone number?
+		
 		b. Sie hat den Brief **ihres Vaters** gar nicht gesehen.	       She never saw her father's letter.
+		
 		c. Das Bild **deiner Frau** ist besonders gut.	                   Your wife's picture is particularly good. 
+		
 		d. Die größte Liebe **aller deutschen Männer** ist Fußball. 	   The greatest love of all German men is soccer.
 
 
 
 
-## 8. Fixed Prepositions and Verbs
- + click on the [verb with fixed preposition](verben _mit_fester_Präposition.md)
+## <a name="fixed"></a> 8. Fixed Prepositions and Verbs
+[Top](#top)
 
-## 9. Zweiteilige Konnektoren
+ Please refer for more information : 
+ 
+  * [verb with fixed preposition](Verben%20_mit_fester_Pr%C3%A4position.md)
+
+## <a name="zwei"></a> 9. Zweiteilige Konnektoren
+[Top](#top)
+
 
 |**Zweitelige Konnktoren**| **Meaning**| **Example**|
 |------------------------|-------------|-------------|
@@ -268,8 +313,8 @@
 | um... zu| in order to |  Ich rufe meinen Freund an, um ihm eine Frage zu stellen |
 |je.. desto/umso |  | Je mehr ich studiere, desto weiser werde ich |
 
-## 10.Relative pronomen
-
+## <a name="relpro"></a> 10. Relative Pronomen
+[Top](#top)
 
 | |**Masculin**|**Neutral**|**Feminin**|**Plural**|
 |---|----|----|-----|----|
@@ -307,8 +352,10 @@
 	a. Ein Mann, **dessen** Handy klingelte, wusste nicht, was er tun sollte.<br />
 	b. Eine Mutter, **deren** Kind weinte, war auch sehr beunruhigt.
 
-## 11. TeKaMoLo
+## <a name="tekamolo"></a>  11. TeKaMoLo
 **ONLY use for WRITING**
+
+[Top](#top)
 
 If you have lot of information to be given in one sentence, you will be wondering which information must be written/said first?
 
@@ -350,7 +397,12 @@ Question: why King David was killed ? ( focus is on Cause, Kausal, reason)
 Answer: Beacause of Jealousy King David was killed in 1896 by Shooting in Paris 
 ( note here: first we write reason jealousy and then rest of information is in Tekamolo order)
 
-## 12. Others
- +  Please refer for top adverben [Top_x_adverben](top_x_adverben.md].
- +  PLease refer for top Nomen-Verben-Verbindungen [Wichtige NVV](wichtige_nvv.md)
+## <a name="others"></a> 12. Others
+[Top](#top)
+
+ Please refer for top adverben :
+ * [Top_x_adverben](top_x_adverben.md)
+ 
+ Please refer for top Nomen-Verben-Verbindungen (NVV):
+ * [Wichtige NVV](wichtige_nvv.md)
 
