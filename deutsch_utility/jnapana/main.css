@@ -1,0 +1,216 @@
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: calc(13px + .7vw);
+     background: powderblue
+}
+
+table {
+    font-size: calc(11px + .3vw);
+    text-align: center;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+.rotate_left {
+    transform: rotate(-90.0deg);
+    white-space: nowrap;
+}
+
+.container {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 15% 70% 15%;
+    grid-template-rows: auto 1fr auto auto;
+    grid-template-areas:
+            ". options ."
+            "true card false"
+            "known remaining next"
+            ". reload .";
+    align-items: center;
+
+    -webkit-perspective: 800px;
+    -moz-perspective: 800px;
+    -o-perspective: 800px;
+    perspective: 800px;
+}
+
+
+/* Card */
+.card {
+    grid-area: card;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "innerCard";
+
+    width: 100%;
+    max-width: 700px;
+    -webkit-transition: -webkit-transform 1s;
+    -moz-transition: -moz-transform 1s;
+    -o-transition: -o-transform 1s;
+    transition: transform 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -o-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+
+.card div {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+    padding: 0 50px 20px 50px;
+    grid-area: card;
+}
+
+.card .front {
+    grid-area: innerCard;
+    background: repeating-linear-gradient(
+        0deg,
+        rgb(227, 204, 131) 2px,
+        rgb(227, 204, 131) 2px,
+        rgb(227, 204, 131) 40px,
+        black 30px        
+        );
+}
+
+.card .back {
+    display: flex;
+    flex-direction: column;
+    grid-area: innerCard;
+    background: repeating-linear-gradient(
+        0deg,
+        rgb(131, 173, 227) 2px,
+        rgb(131, 173, 227) 2px,
+        rgb(131, 173, 227) 40px,
+        black 30px
+        );
+    -webkit-transform: rotateY( 180deg );
+    -moz-transform: rotateY( 180deg );
+    -o-transform: rotateY( 180deg );
+    transform: rotateY( 180deg );
+}
+
+.card.flipped {
+    -webkit-transform: rotateY( 180deg );
+    -moz-transform: rotateY( 180deg );
+    -o-transform: rotateY( 180deg );
+    transform: rotateY( 180deg );
+}
+
+
+/* Content on Card */
+.content {
+    height: 100%;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+li {
+    text-align: left;
+}
+
+.solution {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Buttons */
+button {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: calc(18px + .7vw);
+    margin: 20px;
+
+    color: #007bff;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #fff;
+    cursor: pointer;
+}
+
+button.correct {
+    background-color: rgb(33, 120, 33);
+    grid-area: true;
+}
+
+button.wrong {
+    background-color: rgb(184, 17, 17);
+    grid-area: false;
+}
+
+.next {
+    max-height: 100px;
+    color:white;
+    grid-area: next;
+}
+
+.return {
+    font-size: calc(10px + .5vw);
+    align-self: flex-end;
+    margin: 5% 0 0 0;
+}
+
+.reload {
+    display: flex;
+    justify-content: center;
+    grid-area: reload;
+}
+
+.head {
+    font-size: calc(10px + .5vw);
+    display: inline;
+    margin: 2vh 0;
+    grid-area: options;
+    max-width: 700px;
+    text-align: left;
+}
+
+.decks {
+    font-size: calc(10px + .4vw);
+}
+
+.flex_container div {
+    margin: 5px 15px 5px 15px;
+    font-size: calc(12px + .5vw);
+}
+
+
+/* Text outside the Card */
+
+#known {
+    grid-area: known;
+    text-align: center;
+}
+.remaining {
+    grid-area: remaining;
+}
+
+#next {
+    grid-area: next;
+    text-align: center;
+}

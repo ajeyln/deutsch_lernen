@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<link rel="icon" href="a_logo.png">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Flash Cards</title>
+        <img src="a_logo.png" alt="HTML5 Icon" style="width:100px;height:80px;"><br><br>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="mobile.css" />
+	
+	<script type="text/javascript" src="./questionsJSON/b2-latest-verbs1.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_b2-latest-verbs1.json"></script>
+	<script type="text/javascript" src="./questionsJSON/b2-latest-words1.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_b2-latest-words1.json"></script>
+	<script type="text/javascript" src="./questionsJSON/b2-verbs.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_b2-verbs.json"></script>
+	<script type="text/javascript" src="./questionsJSON/b2-words.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_b2-words.json"></script>
+	<script type="text/javascript" src="./questionsJSON/lesen_1_woerter.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_lesen_1_woerter.json"></script>
+	<script type="text/javascript" src="./questionsJSON/lesen_2_woerter.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_lesen_2_woerter.json"></script>
+	<script type="text/javascript" src="./questionsJSON/lesen_verben.json"></script>
+	<script type="text/javascript" src="./questionsJSON/reverse_lesen_verben.json"></script>
+
+</head>
+<body>
+    <section class="container">
+        <div class="head">
+            <lable class="lable" for="kartendecks">Select one of the decks : </lable>
+            <select class="decks" name="kartendecks" id="decks">
+				<option id="b2-latest-verbs1" value="b2-latest-verbs1">b2-latest-verbs1</option>
+				<option id="b2-latest-words1" value="b2-latest-words1">b2-latest-words1</option>
+				<option id="b2-verbs" value="b2-verbs">b2-verbs</option>
+				<option id="b2-words" value="b2-words">b2-words</option>
+				<option id="lesen_1_woerter" value="lesen_1_woerter">lesen_1_wörter</option>
+				<option id="lesen_2_woerter" value="lesen_2_woerter">lesen_2_wörter</option>
+				<option id="lesen_verben" value="lesen_verben">lesen_verben</option>
+				<option id="reverse_b2-latest-verbs1" value="reverse_b2-latest-verbs1"> reversed b2-latest-verbs1</option>
+				<option id="reverse_b2-latest-words1" value="reverse_b2-latest-words1"> reversed b2-latest-words1</option>
+				<option id="reverse_b2-verbs" value="reverse_b2-verbs"> reversed b2-verbs</option>
+				<option id="reverse_b2-words" value="reverse_b2-words"> reversed b2-words</option>
+				<option id="reverse_lesen_1_woerter" value="reverse_lesen_1_woerter"> reversed lesen_1_wörter</option>
+				<option id="reverse_lesen_2_woerter" value="reverse_lesen_2_woerter"> reversed lesen_2_wörter</option>
+				<option id="reverse_lesen_verben" value="reverse_lesen_verben"> reversed lesen_verben</option>
+            </select>
+        </div>
+
+    <button type="button" class="correct next"> I know </button>
+
+    <div class="card">
+        <div class="front">
+            <section class="content">
+                <h4 >Question</h4>
+                <p style="color:crimson;" class="question"></p>
+                <input class="answer" type="text" placeholder="translation">
+                <button type="button" class="check_answer">Check</button>
+            </section>
+        </div>
+        <div class="back">
+                <button class="return">Go back to Question</button>
+                <section class="content">
+                        <h4>Answer</h4>
+                    <p style="color:green;" class="solution">...</p>
+                    <button type="button" class="new_word">New Question</button>
+                </section>
+        </div>
+    </div>
+
+    <button type="button" class="wrong next">I do not know !</button>
+
+    <h4 id="known"> I know!</h4>
+    <h3 class="remaining"></h3>
+    <h4 id="next">Next Round:</h4>
+    <button type="button" class="reload">Start again!</button>
+
+    </section>
+
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+@media (max-width: 700px) {
+    body {
+        margin: 0;
+    }
+
+    .container {
+        grid-template-rows: auto;
+        grid-template-columns: auto;
+        grid-template-areas:
+                "options options options options"
+                "card card card card"
+                "true true false false"
+                "known remaining remaining next"
+                "reload reload reload reload";
+        justify-content: center;
+        align-items: center;
+    }
+
+    .head {
+        margin-left: 2vw;
+    }
+
+    .card div {
+        padding: 2vw;
+    }
+
+    button.correct,
+    button.wrong,
+    .reload {
+        margin: 0;
+        padding: 1vh;
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    #known,
+    .remaining,
+    #next {
+        text-align: center;
+        font-size: calc(10px + .3vw);
+    }
+}
